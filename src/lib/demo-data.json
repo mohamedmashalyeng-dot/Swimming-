@@ -1,0 +1,2910 @@
+{
+  "settings": {
+    "id": 1,
+    "brand_name_ar": "كابتن أمير سلامي",
+    "brand_name_en": "Captain Amir Salami",
+    "tagline_ar": "مدرب سباحة شخصي محترف",
+    "tagline_en": "Professional Personal Swimming Coach",
+    "footer_about_ar": "تدريب سباحة احترافي وآمن للأطفال والمراهقين والكبار، بخطط تدريب شخصية ومتابعة مستمرة حتى تصل لهدفك.",
+    "footer_about_en": "Professional and safe swimming coaching for children, teenagers and adults — personal training plans and continuous follow-up until you reach your goal.",
+    "logo_url": null,
+    "favicon_url": null,
+    "phone": "+20 100 000 0000",
+    "whatsapp": "201000000000",
+    "whatsapp_message_ar": "مرحباً كابتن أمير، أريد الاستفسار عن دروس السباحة.",
+    "whatsapp_message_en": "Hello Captain Amir, I would like to ask about swimming lessons.",
+    "email": "hello@example.com",
+    "address_ar": "القاهرة، مصر",
+    "address_en": "Cairo, Egypt",
+    "facebook_url": "https://facebook.com/",
+    "instagram_url": "https://instagram.com/",
+    "youtube_url": "https://youtube.com/",
+    "tiktok_url": "https://tiktok.com/",
+    "x_url": null,
+    "currency_ar": "ج.م",
+    "currency_en": "EGP",
+    "show_demo_badge": true,
+    "site_url": "http://localhost:3000",
+    "seo_title_ar": "كابتن أمير سلامي | مدرب سباحة محترف للأطفال والكبار",
+    "seo_title_en": "Captain Amir Salami | Professional Swimming Coach for Kids & Adults",
+    "seo_description_ar": "تعلّم السباحة بثقة مع كابتن أمير سلامي: كورسات للمبتدئين والمتقدمين، دروس خاصة، فيديوهات تعليمية، ومواعيد تدريب في عدة حمامات سباحة.",
+    "seo_description_en": "Learn to swim with confidence with Captain Amir Salami: beginner to advanced courses, private lessons, training videos and weekly sessions at multiple pools.",
+    "seo_keywords_ar": "مدرب سباحة, تعليم السباحة, سباحة أطفال, دروس سباحة خاصة, كابتن أمير سلامي",
+    "seo_keywords_en": "swimming coach, swimming lessons, kids swimming, private swimming lessons, Captain Amir Salami",
+    "og_image_url": null,
+    "google_site_verification": null,
+    "is_demo": true,
+    "created_at": "2026-11-09T16:25:11.322+00:00",
+    "updated_at": "2026-11-09T16:25:11.322+00:00"
+  },
+  "sections": [
+    {
+      "id": "33af5fc0-69fb-4d35-9d19-3c6a67c15c9f",
+      "key": "hero",
+      "eyebrow_ar": "كابتن أمير سلامي",
+      "eyebrow_en": "Captain Amir Salami",
+      "title_ar": "اتعلم السباحة بثقة واحترافية مع كابتن أمير سلامي",
+      "title_en": "Learn to Swim with Confidence and Professional Coaching",
+      "subtitle_ar": "برامج تدريب سباحة شخصية وآمنة للأطفال والمراهقين والكبار — من أول خطوة في الماء حتى مستوى المنافسات.",
+      "subtitle_en": "Personal, safe swimming programs for children, teenagers and adults — from your very first step in the water to competition level.",
+      "body_ar": null,
+      "body_en": null,
+      "cta_primary_ar": "احجز درس سباحة",
+      "cta_primary_en": "Book a Swimming Lesson",
+      "cta_secondary_ar": "شاهد فيديوهات التدريب",
+      "cta_secondary_en": "Watch Training Videos",
+      "image_url": "https://images.unsplash.com/photo-1530549387789-4c1017266635?auto=format&fit=crop&w=2000&q=80",
+      "video_url": null,
+      "highlights_ar": [
+        "تدريب آمن ومعتمد على خطة",
+        "مجموعات صغيرة ودروس خاصة",
+        "متابعة تقدم كل متدرب"
+      ],
+      "highlights_en": [
+        "Safe, plan-based coaching",
+        "Small groups & private lessons",
+        "Progress tracking for every swimmer"
+      ],
+      "notes_ar": [],
+      "notes_en": [],
+      "is_published": true,
+      "sort_order": 1,
+      "is_demo": true,
+      "created_at": "2026-11-09T16:25:11.322+00:00",
+      "updated_at": "2026-11-09T16:25:11.322+00:00"
+    },
+    {
+      "id": "8f74937c-4686-47c5-a860-433907e7fc0a",
+      "key": "about",
+      "eyebrow_ar": "تعرّف على المدرب",
+      "eyebrow_en": "Meet Your Coach",
+      "title_ar": "من هو كابتن أمير سلامي؟",
+      "title_en": "Who is Captain Amir Salami?",
+      "subtitle_ar": "خبرة في تعليم السباحة لكل الأعمار بأسلوب هادئ وآمن ونتائج ملموسة.",
+      "subtitle_en": "Experience teaching swimming to all ages with a calm, safe approach and measurable results.",
+      "body_ar": null,
+      "body_en": null,
+      "cta_primary_ar": null,
+      "cta_primary_en": null,
+      "cta_secondary_ar": null,
+      "cta_secondary_en": null,
+      "image_url": null,
+      "video_url": null,
+      "highlights_ar": [],
+      "highlights_en": [],
+      "notes_ar": [],
+      "notes_en": [],
+      "is_published": true,
+      "sort_order": 2,
+      "is_demo": true,
+      "created_at": "2026-11-09T16:25:11.322+00:00",
+      "updated_at": "2026-11-09T16:25:11.322+00:00"
+    },
+    {
+      "id": "d8167a1c-b98b-4f33-84fa-19c6c6e44a63",
+      "key": "courses",
+      "eyebrow_ar": "برامج التدريب",
+      "eyebrow_en": "Training Programs",
+      "title_ar": "كورسات السباحة",
+      "title_en": "Swimming Courses",
+      "subtitle_ar": "اختر البرنامج المناسب لمستواك وعمرك وهدفك.",
+      "subtitle_en": "Choose the program that fits your level, age and goal.",
+      "body_ar": null,
+      "body_en": null,
+      "cta_primary_ar": null,
+      "cta_primary_en": null,
+      "cta_secondary_ar": null,
+      "cta_secondary_en": null,
+      "image_url": null,
+      "video_url": null,
+      "highlights_ar": [],
+      "highlights_en": [],
+      "notes_ar": [],
+      "notes_en": [],
+      "is_published": true,
+      "sort_order": 3,
+      "is_demo": true,
+      "created_at": "2026-11-09T16:25:11.322+00:00",
+      "updated_at": "2026-11-09T16:25:11.322+00:00"
+    },
+    {
+      "id": "af171fd5-d6fd-4475-9477-5bee7e8418c9",
+      "key": "videos",
+      "eyebrow_ar": "مكتبة الفيديو",
+      "eyebrow_en": "Video Library",
+      "title_ar": "فيديوهات تعليم السباحة",
+      "title_en": "Swimming Training Videos",
+      "subtitle_ar": "شروحات عملية للتقنيات والتنفس والتمارين والسلامة في الماء.",
+      "subtitle_en": "Practical walkthroughs of technique, breathing, drills and water safety.",
+      "body_ar": null,
+      "body_en": null,
+      "cta_primary_ar": null,
+      "cta_primary_en": null,
+      "cta_secondary_ar": null,
+      "cta_secondary_en": null,
+      "image_url": null,
+      "video_url": null,
+      "highlights_ar": [],
+      "highlights_en": [],
+      "notes_ar": [],
+      "notes_en": [],
+      "is_published": true,
+      "sort_order": 4,
+      "is_demo": true,
+      "created_at": "2026-11-09T16:25:11.322+00:00",
+      "updated_at": "2026-11-09T16:25:11.322+00:00"
+    },
+    {
+      "id": "ce784294-4046-449d-a517-e83db1d4b434",
+      "key": "learning",
+      "eyebrow_ar": "تعلّم خطوة بخطوة",
+      "eyebrow_en": "Learn Step by Step",
+      "title_ar": "تعلّم السباحة",
+      "title_en": "Learn How to Swim",
+      "subtitle_ar": "دروس تعليمية متدرجة من الثقة بالماء حتى أساليب السباحة الأربعة.",
+      "subtitle_en": "Progressive lessons from water confidence to all four competitive strokes.",
+      "body_ar": null,
+      "body_en": null,
+      "cta_primary_ar": null,
+      "cta_primary_en": null,
+      "cta_secondary_ar": null,
+      "cta_secondary_en": null,
+      "image_url": null,
+      "video_url": null,
+      "highlights_ar": [],
+      "highlights_en": [],
+      "notes_ar": [],
+      "notes_en": [],
+      "is_published": true,
+      "sort_order": 5,
+      "is_demo": true,
+      "created_at": "2026-11-09T16:25:11.322+00:00",
+      "updated_at": "2026-11-09T16:25:11.322+00:00"
+    },
+    {
+      "id": "39cdf2b9-3dd1-48a2-a8f8-d3c422faba75",
+      "key": "age_groups",
+      "eyebrow_ar": "لكل الأعمار",
+      "eyebrow_en": "For Every Age",
+      "title_ar": "الفئات العمرية",
+      "title_en": "Age Groups",
+      "subtitle_ar": "أسلوب تدريب مختلف لكل مرحلة عمرية لتحقيق أفضل نتيجة بأمان.",
+      "subtitle_en": "A different coaching approach for every stage of life — for the best, safest results.",
+      "body_ar": null,
+      "body_en": null,
+      "cta_primary_ar": null,
+      "cta_primary_en": null,
+      "cta_secondary_ar": null,
+      "cta_secondary_en": null,
+      "image_url": null,
+      "video_url": null,
+      "highlights_ar": [],
+      "highlights_en": [],
+      "notes_ar": [],
+      "notes_en": [],
+      "is_published": true,
+      "sort_order": 6,
+      "is_demo": true,
+      "created_at": "2026-11-09T16:25:11.322+00:00",
+      "updated_at": "2026-11-09T16:25:11.322+00:00"
+    },
+    {
+      "id": "2c5fb5cc-52a6-4061-bc38-5e310d2ad5cd",
+      "key": "equipment",
+      "eyebrow_ar": "قبل أول تمرين",
+      "eyebrow_en": "Before Your First Session",
+      "title_ar": "المتطلبات وأدوات السباحة",
+      "title_en": "Requirements & Swimming Equipment",
+      "subtitle_ar": "كل ما تحتاجه لتكون جاهزاً للتمرين بأمان وراحة.",
+      "subtitle_en": "Everything you need to be ready for training safely and comfortably.",
+      "body_ar": null,
+      "body_en": null,
+      "cta_primary_ar": null,
+      "cta_primary_en": null,
+      "cta_secondary_ar": null,
+      "cta_secondary_en": null,
+      "image_url": null,
+      "video_url": null,
+      "highlights_ar": [
+        "احضر قبل موعد التمرين بـ 15 دقيقة",
+        "تناول وجبة خفيفة قبل التمرين بساعة على الأقل",
+        "استحم قبل النزول إلى حمام السباحة",
+        "أخبر المدرب بأي حالة صحية أو حساسية"
+      ],
+      "highlights_en": [
+        "Arrive 15 minutes before your session",
+        "Eat a light meal at least one hour before training",
+        "Shower before entering the pool",
+        "Tell the coach about any medical condition or allergy"
+      ],
+      "notes_ar": [
+        "ممنوع النزول للماء بدون وجود المدرب",
+        "الالتزام بالحارة المخصصة للمجموعة",
+        "عدم الجري حول حمام السباحة",
+        "الأطفال أقل من 12 سنة يحتاجون حضور ولي الأمر في أول حصة"
+      ],
+      "notes_en": [
+        "Never enter the water without the coach present",
+        "Stay within your group's assigned lane",
+        "No running around the pool deck",
+        "Children under 12 need a parent present at the first session"
+      ],
+      "is_published": true,
+      "sort_order": 7,
+      "is_demo": true,
+      "created_at": "2026-11-09T16:25:11.322+00:00",
+      "updated_at": "2026-11-09T16:25:11.322+00:00"
+    },
+    {
+      "id": "b54974ec-171a-4cf1-b4f6-cfc78f87a45e",
+      "key": "locations",
+      "eyebrow_ar": "أماكن التدريب",
+      "eyebrow_en": "Where We Train",
+      "title_ar": "أماكن التدريب",
+      "title_en": "Training Locations",
+      "subtitle_ar": "حمامات سباحة مجهزة ونظيفة في مواقع مختلفة لتناسبك.",
+      "subtitle_en": "Clean, well-equipped pools in several locations to suit you.",
+      "body_ar": null,
+      "body_en": null,
+      "cta_primary_ar": null,
+      "cta_primary_en": null,
+      "cta_secondary_ar": null,
+      "cta_secondary_en": null,
+      "image_url": null,
+      "video_url": null,
+      "highlights_ar": [],
+      "highlights_en": [],
+      "notes_ar": [],
+      "notes_en": [],
+      "is_published": true,
+      "sort_order": 8,
+      "is_demo": true,
+      "created_at": "2026-11-09T16:25:11.322+00:00",
+      "updated_at": "2026-11-09T16:25:11.322+00:00"
+    },
+    {
+      "id": "36fd05c5-5c0c-4bf0-861b-c5d3312906a4",
+      "key": "schedule",
+      "eyebrow_ar": "المواعيد الأسبوعية",
+      "eyebrow_en": "Weekly Timetable",
+      "title_ar": "جدول التدريب",
+      "title_en": "Training Schedule",
+      "subtitle_ar": "اختر الموعد المناسب وتابع الأماكن المتاحة في كل حصة.",
+      "subtitle_en": "Pick the slot that suits you and check live availability for each session.",
+      "body_ar": null,
+      "body_en": null,
+      "cta_primary_ar": null,
+      "cta_primary_en": null,
+      "cta_secondary_ar": null,
+      "cta_secondary_en": null,
+      "image_url": null,
+      "video_url": null,
+      "highlights_ar": [],
+      "highlights_en": [],
+      "notes_ar": [],
+      "notes_en": [],
+      "is_published": true,
+      "sort_order": 9,
+      "is_demo": true,
+      "created_at": "2026-11-09T16:25:11.322+00:00",
+      "updated_at": "2026-11-09T16:25:11.322+00:00"
+    },
+    {
+      "id": "9ad8003a-75ba-4f58-92fd-b1d696351202",
+      "key": "reviews",
+      "eyebrow_ar": "آراء المتدربين",
+      "eyebrow_en": "Testimonials",
+      "title_ar": "ماذا يقول المتدربون",
+      "title_en": "What Swimmers Say",
+      "subtitle_ar": "تجارب المتدربين وأولياء الأمور مع البرامج التدريبية.",
+      "subtitle_en": "Experiences from swimmers and parents who trained with us.",
+      "body_ar": null,
+      "body_en": null,
+      "cta_primary_ar": null,
+      "cta_primary_en": null,
+      "cta_secondary_ar": null,
+      "cta_secondary_en": null,
+      "image_url": null,
+      "video_url": null,
+      "highlights_ar": [],
+      "highlights_en": [],
+      "notes_ar": [],
+      "notes_en": [],
+      "is_published": true,
+      "sort_order": 10,
+      "is_demo": true,
+      "created_at": "2026-11-09T16:25:11.322+00:00",
+      "updated_at": "2026-11-09T16:25:11.322+00:00"
+    },
+    {
+      "id": "edc2ee7a-229b-4375-899d-ce116a9431cd",
+      "key": "faq",
+      "eyebrow_ar": "أسئلة شائعة",
+      "eyebrow_en": "FAQ",
+      "title_ar": "الأسئلة الشائعة",
+      "title_en": "Frequently Asked Questions",
+      "subtitle_ar": "إجابات سريعة على أكثر الأسئلة تكراراً.",
+      "subtitle_en": "Quick answers to the most common questions.",
+      "body_ar": null,
+      "body_en": null,
+      "cta_primary_ar": null,
+      "cta_primary_en": null,
+      "cta_secondary_ar": null,
+      "cta_secondary_en": null,
+      "image_url": null,
+      "video_url": null,
+      "highlights_ar": [],
+      "highlights_en": [],
+      "notes_ar": [],
+      "notes_en": [],
+      "is_published": true,
+      "sort_order": 11,
+      "is_demo": true,
+      "created_at": "2026-11-09T16:25:11.322+00:00",
+      "updated_at": "2026-11-09T16:25:11.322+00:00"
+    },
+    {
+      "id": "ae9a10f3-6ffe-44e7-84e0-c50f6d16791e",
+      "key": "contact",
+      "eyebrow_ar": "ابدأ الآن",
+      "eyebrow_en": "Get Started",
+      "title_ar": "التواصل والتسجيل",
+      "title_en": "Contact & Registration",
+      "subtitle_ar": "سجّل بياناتك وسيتواصل معك فريق كابتن أمير لتأكيد الموعد المناسب.",
+      "subtitle_en": "Send your details and Captain Amir's team will contact you to confirm a suitable slot.",
+      "body_ar": null,
+      "body_en": null,
+      "cta_primary_ar": "إرسال طلب التسجيل",
+      "cta_primary_en": "Send Registration Request",
+      "cta_secondary_ar": null,
+      "cta_secondary_en": null,
+      "image_url": null,
+      "video_url": null,
+      "highlights_ar": [],
+      "highlights_en": [],
+      "notes_ar": [],
+      "notes_en": [],
+      "is_published": true,
+      "sort_order": 12,
+      "is_demo": true,
+      "created_at": "2026-11-09T16:25:11.322+00:00",
+      "updated_at": "2026-11-09T16:25:11.322+00:00"
+    },
+    {
+      "id": "f5f3fd20-43e9-4b0c-89c7-b691e1cdcb12",
+      "key": "footer",
+      "eyebrow_ar": null,
+      "eyebrow_en": null,
+      "title_ar": "كابتن أمير سلامي",
+      "title_en": "Captain Amir Salami",
+      "subtitle_ar": null,
+      "subtitle_en": null,
+      "body_ar": null,
+      "body_en": null,
+      "cta_primary_ar": null,
+      "cta_primary_en": null,
+      "cta_secondary_ar": null,
+      "cta_secondary_en": null,
+      "image_url": null,
+      "video_url": null,
+      "highlights_ar": [],
+      "highlights_en": [],
+      "notes_ar": [],
+      "notes_en": [],
+      "is_published": true,
+      "sort_order": 13,
+      "is_demo": true,
+      "created_at": "2026-11-09T16:25:11.322+00:00",
+      "updated_at": "2026-11-09T16:25:11.322+00:00"
+    }
+  ],
+  "coaches": [
+    {
+      "id": "c0ac0000-0000-4000-8000-000000000001",
+      "name_ar": "أمير سلامي",
+      "name_en": "Amir Salami",
+      "title_ar": "مدرب سباحة شخصي",
+      "title_en": "Personal Swimming Coach",
+      "photo_url": "https://images.unsplash.com/photo-1560090995-01632a28895b?auto=format&fit=crop&w=1000&q=80",
+      "bio_ar": "كابتن أمير سلامي مدرب سباحة شخصي يعمل مع الأطفال والمراهقين والكبار. يركّز على بناء الثقة في الماء أولاً ثم تطوير التقنية خطوة بخطوة، مع خطط تدريب واضحة تناسب مستوى وهدف كل متدرب. (نص تجريبي — سيتم استبداله بالسيرة الحقيقية)",
+      "bio_en": "Captain Amir Salami is a personal swimming coach working with children, teenagers and adults. He focuses on building water confidence first, then developing technique step by step with clear plans that match each swimmer's level and goal. (Demo text — to be replaced with the real biography)",
+      "philosophy_ar": "السباحة مهارة حياة قبل أن تكون رياضة. أؤمن أن كل شخص يستطيع التعلّم عندما يشعر بالأمان، ويتقدّم بسرعة عندما يفهم لماذا يؤدي كل حركة.",
+      "philosophy_en": "Swimming is a life skill before it is a sport. I believe everyone can learn once they feel safe — and progress fast once they understand why each movement matters.",
+      "specialties_ar": [
+        "تعليم المبتدئين من الصفر",
+        "سباحة الأطفال",
+        "تصحيح الأساليب الأربعة",
+        "التحضير للمنافسات",
+        "التغلب على الخوف من الماء"
+      ],
+      "specialties_en": [
+        "Teaching complete beginners",
+        "Kids swimming",
+        "Correcting all four strokes",
+        "Competition preparation",
+        "Overcoming fear of water"
+      ],
+      "certifications_ar": [
+        "شهادة مدرب سباحة (بيانات تجريبية)",
+        "شهادة إنقاذ وإسعافات أولية (بيانات تجريبية)",
+        "دورة تدريب الأطفال في الماء (بيانات تجريبية)"
+      ],
+      "certifications_en": [
+        "Swimming coach certificate (demo data)",
+        "Lifeguard & first aid certificate (demo data)",
+        "Kids aquatic coaching course (demo data)"
+      ],
+      "achievements_ar": [
+        "تدريب فرق ناشئين للبطولات المحلية (بيانات تجريبية)",
+        "تطوير برنامج \"الثقة بالماء\" للمبتدئين (بيانات تجريبية)"
+      ],
+      "achievements_en": [
+        "Coached junior squads for local championships (demo data)",
+        "Developed a Water Confidence program for beginners (demo data)"
+      ],
+      "years_experience": 10,
+      "students_trained": 1200,
+      "programs_count": 8,
+      "satisfaction_rate": 98,
+      "phone": "+20 100 000 0000",
+      "email": "coach@example.com",
+      "is_primary": true,
+      "is_published": true,
+      "sort_order": 0,
+      "is_demo": true,
+      "created_at": "2026-11-09T16:25:11.322+00:00",
+      "updated_at": "2026-11-09T16:25:11.322+00:00"
+    }
+  ],
+  "courses": [
+    {
+      "id": "c0000000-0000-4000-8000-000000000001",
+      "slug": "beginner-swimming",
+      "title_ar": "السباحة للمبتدئين",
+      "title_en": "Beginner Swimming",
+      "image_url": "https://images.unsplash.com/photo-1600965962361-9035dbfd1c50?auto=format&fit=crop&w=1200&q=80",
+      "summary_ar": "ابدأ من الصفر بثقة وأمان.",
+      "summary_en": "Start from zero with confidence and safety.",
+      "description_ar": "برنامج متكامل لمن لا يجيد السباحة إطلاقاً: التعود على الماء، الطفو، التنفس، ثم أساسيات السباحة الحرة.",
+      "description_en": "A complete program for non-swimmers: getting used to the water, floating, breathing, then freestyle fundamentals.",
+      "level": "beginner",
+      "course_type": "group",
+      "age_min": 6,
+      "age_max": null,
+      "duration_weeks": 8,
+      "session_minutes": 45,
+      "sessions_count": 16,
+      "objectives_ar": [
+        "الطفو على البطن والظهر",
+        "التنفس المنتظم",
+        "سباحة 25 متر حرة"
+      ],
+      "objectives_en": [
+        "Float on front and back",
+        "Rhythmic breathing",
+        "Swim 25m freestyle"
+      ],
+      "requirements_ar": [
+        "لا يشترط أي خبرة",
+        "مايوه ونظارة وغطاء رأس"
+      ],
+      "requirements_en": [
+        "No experience needed",
+        "Swimsuit, goggles and cap"
+      ],
+      "price": 1200,
+      "price_note_ar": "للكورس الكامل (سعر تجريبي)",
+      "price_note_en": "Full course (demo price)",
+      "is_featured": true,
+      "is_published": true,
+      "sort_order": 1,
+      "is_demo": true,
+      "created_at": "2026-11-09T16:25:11.322+00:00",
+      "updated_at": "2026-11-09T16:25:11.322+00:00"
+    },
+    {
+      "id": "c0000000-0000-4000-8000-000000000002",
+      "slug": "intermediate-swimming",
+      "title_ar": "السباحة للمستوى المتوسط",
+      "title_en": "Intermediate Swimming",
+      "image_url": "https://images.unsplash.com/photo-1519315901367-f34ff9154487?auto=format&fit=crop&w=1200&q=80",
+      "summary_ar": "طوّر أسلوبك وزد مسافتك.",
+      "summary_en": "Refine your strokes and swim further.",
+      "description_ar": "لمن يستطيع السباحة 25 متراً ويريد تحسين التقنية وتعلم سباحة الظهر والصدر وزيادة التحمل.",
+      "description_en": "For swimmers who can swim 25m and want better technique, backstroke and breaststroke, and more endurance.",
+      "level": "intermediate",
+      "course_type": "group",
+      "age_min": 8,
+      "age_max": null,
+      "duration_weeks": 8,
+      "session_minutes": 60,
+      "sessions_count": 16,
+      "objectives_ar": [
+        "تحسين السباحة الحرة",
+        "إتقان الظهر والصدر",
+        "سباحة 200 متر متواصلة"
+      ],
+      "objectives_en": [
+        "Improve freestyle",
+        "Master backstroke and breaststroke",
+        "Swim 200m continuously"
+      ],
+      "requirements_ar": [
+        "القدرة على سباحة 25 متر"
+      ],
+      "requirements_en": [
+        "Able to swim 25m"
+      ],
+      "price": 1400,
+      "price_note_ar": "للكورس الكامل (سعر تجريبي)",
+      "price_note_en": "Full course (demo price)",
+      "is_featured": false,
+      "is_published": true,
+      "sort_order": 2,
+      "is_demo": true,
+      "created_at": "2026-11-09T16:25:11.322+00:00",
+      "updated_at": "2026-11-09T16:25:11.322+00:00"
+    },
+    {
+      "id": "c0000000-0000-4000-8000-000000000003",
+      "slug": "advanced-swimming",
+      "title_ar": "السباحة للمتقدمين",
+      "title_en": "Advanced Swimming",
+      "image_url": "https://images.unsplash.com/photo-1530549387789-4c1017266635?auto=format&fit=crop&w=1200&q=80",
+      "summary_ar": "الأساليب الأربعة بمستوى احترافي.",
+      "summary_en": "All four strokes at a high level.",
+      "description_ar": "برنامج للسباحين المتمكنين يشمل الفراشة والدورانات والبدايات وخطط تدريب للسرعة والتحمل.",
+      "description_en": "For confident swimmers: butterfly, turns, starts and structured speed and endurance sets.",
+      "level": "advanced",
+      "course_type": "group",
+      "age_min": 12,
+      "age_max": null,
+      "duration_weeks": 10,
+      "session_minutes": 75,
+      "sessions_count": 20,
+      "objectives_ar": [
+        "إتقان سباحة الفراشة",
+        "الدورانات الانقلابية",
+        "تحسين الأزمنة"
+      ],
+      "objectives_en": [
+        "Master butterfly",
+        "Flip turns",
+        "Improve race times"
+      ],
+      "requirements_ar": [
+        "إجادة السباحة الحرة والظهر والصدر"
+      ],
+      "requirements_en": [
+        "Comfortable in freestyle, backstroke and breaststroke"
+      ],
+      "price": 1800,
+      "price_note_ar": "للكورس الكامل (سعر تجريبي)",
+      "price_note_en": "Full course (demo price)",
+      "is_featured": false,
+      "is_published": true,
+      "sort_order": 3,
+      "is_demo": true,
+      "created_at": "2026-11-09T16:25:11.322+00:00",
+      "updated_at": "2026-11-09T16:25:11.322+00:00"
+    },
+    {
+      "id": "c0000000-0000-4000-8000-000000000004",
+      "slug": "kids-swimming",
+      "title_ar": "سباحة الأطفال",
+      "title_en": "Kids Swimming",
+      "image_url": "https://images.unsplash.com/photo-1564415637254-92c66292cd64?auto=format&fit=crop&w=1200&q=80",
+      "summary_ar": "تعلّم ممتع وآمن للصغار.",
+      "summary_en": "Fun, safe learning for little ones.",
+      "description_ar": "برنامج مصمم للأطفال يجمع بين اللعب والتعلم، بمجموعات صغيرة ومتابعة دورية مع أولياء الأمور.",
+      "description_en": "Designed for children, mixing play and learning in small groups with regular parent updates.",
+      "level": "beginner",
+      "course_type": "kids",
+      "age_min": 4,
+      "age_max": 12,
+      "duration_weeks": 8,
+      "session_minutes": 40,
+      "sessions_count": 16,
+      "objectives_ar": [
+        "حب الماء والثقة",
+        "الطفو والانزلاق",
+        "أساسيات الحرة والظهر"
+      ],
+      "objectives_en": [
+        "Love and confidence in water",
+        "Floating and gliding",
+        "Freestyle and backstroke basics"
+      ],
+      "requirements_ar": [
+        "حضور ولي الأمر في أول حصة"
+      ],
+      "requirements_en": [
+        "Parent attends the first session"
+      ],
+      "price": 1100,
+      "price_note_ar": "للكورس الكامل (سعر تجريبي)",
+      "price_note_en": "Full course (demo price)",
+      "is_featured": true,
+      "is_published": true,
+      "sort_order": 4,
+      "is_demo": true,
+      "created_at": "2026-11-09T16:25:11.322+00:00",
+      "updated_at": "2026-11-09T16:25:11.322+00:00"
+    },
+    {
+      "id": "c0000000-0000-4000-8000-000000000005",
+      "slug": "adult-swimming",
+      "title_ar": "سباحة الكبار",
+      "title_en": "Adult Swimming",
+      "image_url": "https://images.unsplash.com/photo-1438029071396-1e831a7fa6d8?auto=format&fit=crop&w=1200&q=80",
+      "summary_ar": "لم يفت الأوان أبداً لتتعلم.",
+      "summary_en": "It is never too late to learn.",
+      "description_ar": "برنامج خاص بالكبار يبدأ بالتغلب على الخوف من الماء ويصل بك إلى السباحة بثقة ولمسافات أطول.",
+      "description_en": "An adult-only program that starts with overcoming fear and takes you to confident, longer-distance swimming.",
+      "level": "beginner",
+      "course_type": "adults",
+      "age_min": 18,
+      "age_max": null,
+      "duration_weeks": 8,
+      "session_minutes": 50,
+      "sessions_count": 12,
+      "objectives_ar": [
+        "التغلب على الخوف",
+        "التنفس والطفو",
+        "سباحة حرة مريحة"
+      ],
+      "objectives_en": [
+        "Overcome fear",
+        "Breathing and floating",
+        "Relaxed freestyle"
+      ],
+      "requirements_ar": [
+        "لا يشترط أي خبرة"
+      ],
+      "requirements_en": [
+        "No experience needed"
+      ],
+      "price": 1300,
+      "price_note_ar": "للكورس الكامل (سعر تجريبي)",
+      "price_note_en": "Full course (demo price)",
+      "is_featured": true,
+      "is_published": true,
+      "sort_order": 5,
+      "is_demo": true,
+      "created_at": "2026-11-09T16:25:11.322+00:00",
+      "updated_at": "2026-11-09T16:25:11.322+00:00"
+    },
+    {
+      "id": "c0000000-0000-4000-8000-000000000006",
+      "slug": "private-lessons",
+      "title_ar": "دروس سباحة خاصة",
+      "title_en": "Private Swimming Lessons",
+      "image_url": "https://images.unsplash.com/photo-1560090995-01632a28895b?auto=format&fit=crop&w=1200&q=80",
+      "summary_ar": "تدريب فردي بالكامل حسب هدفك.",
+      "summary_en": "One-to-one coaching built around your goal.",
+      "description_ar": "حصص فردية مع كابتن أمير مباشرة، بخطة مخصصة ومواعيد مرنة، لأي عمر ومستوى.",
+      "description_en": "One-to-one sessions directly with Captain Amir — a custom plan and flexible times, for any age and level.",
+      "level": "all",
+      "course_type": "private",
+      "age_min": 4,
+      "age_max": null,
+      "duration_weeks": 4,
+      "session_minutes": 45,
+      "sessions_count": 8,
+      "objectives_ar": [
+        "خطة شخصية",
+        "تقدم أسرع",
+        "مواعيد مرنة"
+      ],
+      "objectives_en": [
+        "Personal plan",
+        "Faster progress",
+        "Flexible schedule"
+      ],
+      "requirements_ar": [
+        "تحديد الهدف في أول حصة"
+      ],
+      "requirements_en": [
+        "Goal-setting in the first session"
+      ],
+      "price": 2400,
+      "price_note_ar": "لـ 8 حصص (سعر تجريبي)",
+      "price_note_en": "For 8 sessions (demo price)",
+      "is_featured": false,
+      "is_published": true,
+      "sort_order": 6,
+      "is_demo": true,
+      "created_at": "2026-11-09T16:25:11.322+00:00",
+      "updated_at": "2026-11-09T16:25:11.322+00:00"
+    },
+    {
+      "id": "c0000000-0000-4000-8000-000000000007",
+      "slug": "professional-training",
+      "title_ar": "التدريب الاحترافي",
+      "title_en": "Professional Swimming Training",
+      "image_url": "https://images.unsplash.com/photo-1519315901367-f34ff9154487?auto=format&fit=crop&w=1200&q=80",
+      "summary_ar": "استعد للبطولات والمنافسات.",
+      "summary_en": "Prepare for races and championships.",
+      "description_ar": "برنامج مكثف للسباحين الطموحين: تحليل فني، خطط موسمية، تدريب لياقة، وتحضير ذهني للمنافسات.",
+      "description_en": "An intensive program for ambitious swimmers: technical analysis, seasonal plans, dry-land training and race mindset.",
+      "level": "advanced",
+      "course_type": "professional",
+      "age_min": 13,
+      "age_max": 35,
+      "duration_weeks": 12,
+      "session_minutes": 90,
+      "sessions_count": 36,
+      "objectives_ar": [
+        "تحسين الأزمنة الرسمية",
+        "خطة موسمية",
+        "التحضير الذهني"
+      ],
+      "objectives_en": [
+        "Improve official times",
+        "Seasonal plan",
+        "Mental preparation"
+      ],
+      "requirements_ar": [
+        "اختبار مستوى قبل الانضمام"
+      ],
+      "requirements_en": [
+        "Assessment before joining"
+      ],
+      "price": 3000,
+      "price_note_ar": "شهرياً (سعر تجريبي)",
+      "price_note_en": "Per month (demo price)",
+      "is_featured": false,
+      "is_published": true,
+      "sort_order": 7,
+      "is_demo": true,
+      "created_at": "2026-11-09T16:25:11.322+00:00",
+      "updated_at": "2026-11-09T16:25:11.322+00:00"
+    },
+    {
+      "id": "c0000000-0000-4000-8000-000000000008",
+      "slug": "water-confidence-safety",
+      "title_ar": "الثقة والأمان في الماء",
+      "title_en": "Water Confidence & Safety",
+      "image_url": "https://images.unsplash.com/photo-1576013551627-0cc20b96c2a7?auto=format&fit=crop&w=1200&q=80",
+      "summary_ar": "مهارات النجاة الأساسية للجميع.",
+      "summary_en": "Essential survival skills for everyone.",
+      "description_ar": "كورس قصير يركز على مهارات الأمان: الطفو للنجاة، الوصول للحافة، طلب المساعدة، والتصرف عند السقوط في الماء.",
+      "description_en": "A short course on safety skills: survival floating, reaching the edge, calling for help and what to do if you fall in.",
+      "level": "beginner",
+      "course_type": "safety",
+      "age_min": 3,
+      "age_max": null,
+      "duration_weeks": 4,
+      "session_minutes": 40,
+      "sessions_count": 8,
+      "objectives_ar": [
+        "الطفو للنجاة",
+        "الدوران والوصول للحافة",
+        "قواعد الأمان"
+      ],
+      "objectives_en": [
+        "Survival floating",
+        "Turn and reach the edge",
+        "Safety rules"
+      ],
+      "requirements_ar": [
+        "لا يشترط أي خبرة"
+      ],
+      "requirements_en": [
+        "No experience needed"
+      ],
+      "price": 900,
+      "price_note_ar": "للكورس الكامل (سعر تجريبي)",
+      "price_note_en": "Full course (demo price)",
+      "is_featured": false,
+      "is_published": true,
+      "sort_order": 8,
+      "is_demo": true,
+      "created_at": "2026-11-09T16:25:11.322+00:00",
+      "updated_at": "2026-11-09T16:25:11.322+00:00"
+    }
+  ],
+  "courseLocs": [
+    {
+      "course_id": "c0000000-0000-4000-8000-000000000001",
+      "location_id": "10c00000-0000-4000-8000-000000000001"
+    },
+    {
+      "course_id": "c0000000-0000-4000-8000-000000000001",
+      "location_id": "10c00000-0000-4000-8000-000000000002"
+    },
+    {
+      "course_id": "c0000000-0000-4000-8000-000000000001",
+      "location_id": "10c00000-0000-4000-8000-000000000003"
+    },
+    {
+      "course_id": "c0000000-0000-4000-8000-000000000002",
+      "location_id": "10c00000-0000-4000-8000-000000000001"
+    },
+    {
+      "course_id": "c0000000-0000-4000-8000-000000000002",
+      "location_id": "10c00000-0000-4000-8000-000000000003"
+    },
+    {
+      "course_id": "c0000000-0000-4000-8000-000000000003",
+      "location_id": "10c00000-0000-4000-8000-000000000001"
+    },
+    {
+      "course_id": "c0000000-0000-4000-8000-000000000004",
+      "location_id": "10c00000-0000-4000-8000-000000000002"
+    },
+    {
+      "course_id": "c0000000-0000-4000-8000-000000000004",
+      "location_id": "10c00000-0000-4000-8000-000000000003"
+    },
+    {
+      "course_id": "c0000000-0000-4000-8000-000000000004",
+      "location_id": "10c00000-0000-4000-8000-000000000004"
+    },
+    {
+      "course_id": "c0000000-0000-4000-8000-000000000005",
+      "location_id": "10c00000-0000-4000-8000-000000000001"
+    },
+    {
+      "course_id": "c0000000-0000-4000-8000-000000000005",
+      "location_id": "10c00000-0000-4000-8000-000000000004"
+    },
+    {
+      "course_id": "c0000000-0000-4000-8000-000000000006",
+      "location_id": "10c00000-0000-4000-8000-000000000002"
+    },
+    {
+      "course_id": "c0000000-0000-4000-8000-000000000006",
+      "location_id": "10c00000-0000-4000-8000-000000000004"
+    },
+    {
+      "course_id": "c0000000-0000-4000-8000-000000000007",
+      "location_id": "10c00000-0000-4000-8000-000000000001"
+    },
+    {
+      "course_id": "c0000000-0000-4000-8000-000000000008",
+      "location_id": "10c00000-0000-4000-8000-000000000002"
+    },
+    {
+      "course_id": "c0000000-0000-4000-8000-000000000008",
+      "location_id": "10c00000-0000-4000-8000-000000000003"
+    }
+  ],
+  "videos": [
+    {
+      "id": "f1d00000-0000-4000-8000-000000000001",
+      "title_ar": "السباحة الحرة بسهولة للمبتدئين",
+      "title_en": "Freestyle Made Easy for Beginners",
+      "description_ar": "شرح كامل خطوة بخطوة لتعلم السباحة الحرة من الصفر.",
+      "description_en": "A complete step-by-step walkthrough of freestyle from zero.",
+      "category": "beginner",
+      "level": "beginner",
+      "video_url": "https://www.youtube.com/watch?v=Q0p5CCRIJU4",
+      "provider": "youtube",
+      "provider_video_id": "Q0p5CCRIJU4",
+      "thumbnail_url": null,
+      "duration_seconds": 1260,
+      "is_featured": true,
+      "is_published": true,
+      "sort_order": 1,
+      "is_demo": true,
+      "created_at": "2026-11-09T16:25:11.322+00:00",
+      "updated_at": "2026-11-09T16:25:11.322+00:00"
+    },
+    {
+      "id": "f1d00000-0000-4000-8000-000000000002",
+      "title_ar": "تعلّم السباحة في 4 خطوات",
+      "title_en": "Learn to Swim in 4 Steps",
+      "description_ar": "الطفو والتوازن ووضعية الجسم والتنفس في درس واحد.",
+      "description_en": "Buoyancy, balance, body line and breathing in one lesson.",
+      "category": "beginner",
+      "level": "beginner",
+      "video_url": "https://www.youtube.com/watch?v=Eggwe7Z0XVA",
+      "provider": "youtube",
+      "provider_video_id": "Eggwe7Z0XVA",
+      "thumbnail_url": null,
+      "duration_seconds": 780,
+      "is_featured": true,
+      "is_published": true,
+      "sort_order": 2,
+      "is_demo": true,
+      "created_at": "2026-11-09T16:25:11.322+00:00",
+      "updated_at": "2026-11-09T16:25:11.322+00:00"
+    },
+    {
+      "id": "f1d00000-0000-4000-8000-000000000003",
+      "title_ar": "السباحة الحرة الصحيحة للمبتدئين",
+      "title_en": "Correct Freestyle for Beginners",
+      "description_ar": "أساسيات حركة الذراعين والرجلين في السباحة الحرة.",
+      "description_en": "Arm and leg fundamentals of the freestyle stroke.",
+      "category": "techniques",
+      "level": "beginner",
+      "video_url": "https://www.youtube.com/watch?v=WLIkQoXLf5c",
+      "provider": "youtube",
+      "provider_video_id": "WLIkQoXLf5c",
+      "thumbnail_url": null,
+      "duration_seconds": 540,
+      "is_featured": false,
+      "is_published": true,
+      "sort_order": 3,
+      "is_demo": true,
+      "created_at": "2026-11-09T16:25:11.322+00:00",
+      "updated_at": "2026-11-09T16:25:11.322+00:00"
+    },
+    {
+      "id": "f1d00000-0000-4000-8000-000000000004",
+      "title_ar": "الأساليب الأربعة في درس واحد",
+      "title_en": "All Four Strokes Explained",
+      "description_ar": "الحرة والظهر والصدر والفراشة: النقاط الفنية الأساسية.",
+      "description_en": "Freestyle, backstroke, breaststroke and butterfly: the key technical points.",
+      "category": "techniques",
+      "level": "intermediate",
+      "video_url": "https://www.youtube.com/watch?v=um6lvksygb8",
+      "provider": "youtube",
+      "provider_video_id": "um6lvksygb8",
+      "thumbnail_url": null,
+      "duration_seconds": 900,
+      "is_featured": true,
+      "is_published": true,
+      "sort_order": 4,
+      "is_demo": true,
+      "created_at": "2026-11-09T16:25:11.322+00:00",
+      "updated_at": "2026-11-09T16:25:11.322+00:00"
+    },
+    {
+      "id": "f1d00000-0000-4000-8000-000000000005",
+      "title_ar": "سباحة الصدر في 5 دقائق",
+      "title_en": "Breaststroke in 5 Minutes",
+      "description_ar": "درس سريع لتعلم توقيت الذراعين والرجلين في سباحة الصدر.",
+      "description_en": "A quick lesson on arm and kick timing in breaststroke.",
+      "category": "techniques",
+      "level": "intermediate",
+      "video_url": "https://www.youtube.com/watch?v=5a3WvaZqh1k",
+      "provider": "youtube",
+      "provider_video_id": "5a3WvaZqh1k",
+      "thumbnail_url": null,
+      "duration_seconds": 330,
+      "is_featured": false,
+      "is_published": true,
+      "sort_order": 5,
+      "is_demo": true,
+      "created_at": "2026-11-09T16:25:11.322+00:00",
+      "updated_at": "2026-11-09T16:25:11.322+00:00"
+    },
+    {
+      "id": "f1d00000-0000-4000-8000-000000000006",
+      "title_ar": "التنفس الجانبي في 4 خطوات",
+      "title_en": "Side Breathing in 4 Steps",
+      "description_ar": "كيف تدير رأسك للتنفس دون أن تفقد التوازن.",
+      "description_en": "How to turn your head to breathe without losing balance.",
+      "category": "breathing",
+      "level": "beginner",
+      "video_url": "https://www.youtube.com/watch?v=AHwinLuCYUY",
+      "provider": "youtube",
+      "provider_video_id": "AHwinLuCYUY",
+      "thumbnail_url": null,
+      "duration_seconds": 600,
+      "is_featured": false,
+      "is_published": true,
+      "sort_order": 6,
+      "is_demo": true,
+      "created_at": "2026-11-09T16:25:11.322+00:00",
+      "updated_at": "2026-11-09T16:25:11.322+00:00"
+    },
+    {
+      "id": "f1d00000-0000-4000-8000-000000000007",
+      "title_ar": "التنفس الهادئ أثناء السباحة",
+      "title_en": "Calm Breathing While Swimming",
+      "description_ar": "الزفير تحت الماء والشهيق السريع فوق السطح.",
+      "description_en": "Exhale underwater, inhale quickly above the surface.",
+      "category": "breathing",
+      "level": "beginner",
+      "video_url": "https://www.youtube.com/watch?v=Er-FDkE5AiU",
+      "provider": "youtube",
+      "provider_video_id": "Er-FDkE5AiU",
+      "thumbnail_url": null,
+      "duration_seconds": 480,
+      "is_featured": false,
+      "is_published": true,
+      "sort_order": 7,
+      "is_demo": true,
+      "created_at": "2026-11-09T16:25:11.322+00:00",
+      "updated_at": "2026-11-09T16:25:11.322+00:00"
+    },
+    {
+      "id": "f1d00000-0000-4000-8000-000000000008",
+      "title_ar": "تمارين التوازن والدوران والتنفس",
+      "title_en": "Drills for Balance, Rotation & Breathing",
+      "description_ar": "تمارين عملية لتحسين انسيابية السباحة الحرة.",
+      "description_en": "Practical drills for a smoother freestyle.",
+      "category": "exercises",
+      "level": "intermediate",
+      "video_url": "https://www.youtube.com/watch?v=PBd1jvJK67s",
+      "provider": "youtube",
+      "provider_video_id": "PBd1jvJK67s",
+      "thumbnail_url": null,
+      "duration_seconds": 720,
+      "is_featured": false,
+      "is_published": true,
+      "sort_order": 8,
+      "is_demo": true,
+      "created_at": "2026-11-09T16:25:11.322+00:00",
+      "updated_at": "2026-11-09T16:25:11.322+00:00"
+    },
+    {
+      "id": "f1d00000-0000-4000-8000-000000000009",
+      "title_ar": "نصائح لإتقان سباحة الفراشة",
+      "title_en": "Tips to Master Butterfly",
+      "description_ar": "نصائح فنية لكل المستويات لتحسين سباحة الفراشة.",
+      "description_en": "Technical tips for all levels to improve your butterfly.",
+      "category": "pro_tips",
+      "level": "advanced",
+      "video_url": "https://www.youtube.com/watch?v=Leejy2PLVxA",
+      "provider": "youtube",
+      "provider_video_id": "Leejy2PLVxA",
+      "thumbnail_url": null,
+      "duration_seconds": 660,
+      "is_featured": false,
+      "is_published": true,
+      "sort_order": 9,
+      "is_demo": true,
+      "created_at": "2026-11-09T16:25:11.322+00:00",
+      "updated_at": "2026-11-09T16:25:11.322+00:00"
+    },
+    {
+      "id": "f1d00000-0000-4000-8000-000000000010",
+      "title_ar": "كيف تسبح كل أسلوب بشكل صحيح",
+      "title_en": "How to Swim Each Stroke Correctly",
+      "description_ar": "أهم الأخطاء الشائعة وكيف تصححها في كل أسلوب.",
+      "description_en": "Common mistakes in each stroke and how to fix them.",
+      "category": "pro_tips",
+      "level": "intermediate",
+      "video_url": "https://www.youtube.com/watch?v=6ceXEl8JqMo",
+      "provider": "youtube",
+      "provider_video_id": "6ceXEl8JqMo",
+      "thumbnail_url": null,
+      "duration_seconds": 840,
+      "is_featured": false,
+      "is_published": true,
+      "sort_order": 10,
+      "is_demo": true,
+      "created_at": "2026-11-09T16:25:11.322+00:00",
+      "updated_at": "2026-11-09T16:25:11.322+00:00"
+    },
+    {
+      "id": "f1d00000-0000-4000-8000-000000000011",
+      "title_ar": "الطفو على الظهر للمبتدئين",
+      "title_en": "Back Float for Beginners",
+      "description_ar": "مهارة الطفو على الظهر — أهم مهارة للنجاة في الماء.",
+      "description_en": "The back float — the most important survival skill in water.",
+      "category": "water_safety",
+      "level": "beginner",
+      "video_url": "https://www.youtube.com/watch?v=z9gsY4Nxj8c",
+      "provider": "youtube",
+      "provider_video_id": "z9gsY4Nxj8c",
+      "thumbnail_url": null,
+      "duration_seconds": 420,
+      "is_featured": false,
+      "is_published": true,
+      "sort_order": 11,
+      "is_demo": true,
+      "created_at": "2026-11-09T16:25:11.322+00:00",
+      "updated_at": "2026-11-09T16:25:11.322+00:00"
+    },
+    {
+      "id": "f1d00000-0000-4000-8000-000000000012",
+      "title_ar": "كيف تطفو في الماء (للكبار)",
+      "title_en": "How to Float in Water (Adults)",
+      "description_ar": "الطفو على البطن والظهر للكبار المبتدئين.",
+      "description_en": "Front and back floating for adult beginners.",
+      "category": "water_safety",
+      "level": "beginner",
+      "video_url": "https://www.youtube.com/watch?v=odg5EcKfKqQ",
+      "provider": "youtube",
+      "provider_video_id": "odg5EcKfKqQ",
+      "thumbnail_url": null,
+      "duration_seconds": 510,
+      "is_featured": false,
+      "is_published": true,
+      "sort_order": 12,
+      "is_demo": true,
+      "created_at": "2026-11-09T16:25:11.322+00:00",
+      "updated_at": "2026-11-09T16:25:11.322+00:00"
+    }
+  ],
+  "lessons": [
+    {
+      "id": "e5500000-0000-4000-8000-000000000001",
+      "title_ar": "البداية",
+      "title_en": "Getting Started",
+      "icon": "flag",
+      "image_url": "https://images.unsplash.com/photo-1576013551627-0cc20b96c2a7?auto=format&fit=crop&w=1000&q=80",
+      "video_url": null,
+      "description_ar": "ما الذي تحتاجه قبل أول نزول للماء وكيف تستعد ذهنياً وجسدياً.",
+      "description_en": "What you need before your first time in the water and how to prepare mentally and physically.",
+      "level": "beginner",
+      "estimated_minutes": 20,
+      "steps_ar": [
+        "جهّز أدواتك: مايوه ونظارة وغطاء رأس",
+        "قم بالإحماء على الحافة 5 دقائق",
+        "انزل الماء من السلم ببطء",
+        "قف في المنطقة الضحلة وتعوّد على حرارة الماء"
+      ],
+      "steps_en": [
+        "Prepare your kit: swimsuit, goggles and cap",
+        "Warm up on the deck for 5 minutes",
+        "Enter slowly using the ladder",
+        "Stand in the shallow end and get used to the temperature"
+      ],
+      "tips_ar": [
+        "لا تقارن نفسك بالآخرين",
+        "ابدأ دائماً في المنطقة الضحلة"
+      ],
+      "tips_en": [
+        "Do not compare yourself to others",
+        "Always start in the shallow end"
+      ],
+      "is_published": true,
+      "sort_order": 1,
+      "is_demo": true,
+      "created_at": "2026-11-09T16:25:11.322+00:00",
+      "updated_at": "2026-11-09T16:25:11.322+00:00"
+    },
+    {
+      "id": "e5500000-0000-4000-8000-000000000002",
+      "title_ar": "الثقة بالماء",
+      "title_en": "Water Confidence",
+      "icon": "smile",
+      "image_url": "https://images.unsplash.com/photo-1564415637254-92c66292cd64?auto=format&fit=crop&w=1000&q=80",
+      "video_url": null,
+      "description_ar": "تمارين بسيطة لإزالة الخوف وبناء الراحة داخل الماء.",
+      "description_en": "Simple exercises to remove fear and build comfort in the water.",
+      "level": "beginner",
+      "estimated_minutes": 30,
+      "steps_ar": [
+        "امشِ داخل الماء ممسكاً بالحافة",
+        "ضع وجهك في الماء لثانيتين",
+        "انفخ فقاعات من الأنف والفم",
+        "اجلس تحت الماء والمس القاع"
+      ],
+      "steps_en": [
+        "Walk in the water holding the edge",
+        "Put your face in for two seconds",
+        "Blow bubbles through nose and mouth",
+        "Sit under water and touch the bottom"
+      ],
+      "tips_ar": [
+        "تنفّس ببطء وهدوء",
+        "كرر التمرين حتى يصبح عادياً"
+      ],
+      "tips_en": [
+        "Breathe slowly and calmly",
+        "Repeat until it feels normal"
+      ],
+      "is_published": true,
+      "sort_order": 2,
+      "is_demo": true,
+      "created_at": "2026-11-09T16:25:11.322+00:00",
+      "updated_at": "2026-11-09T16:25:11.322+00:00"
+    },
+    {
+      "id": "e5500000-0000-4000-8000-000000000003",
+      "title_ar": "التنفس الصحيح",
+      "title_en": "Proper Breathing",
+      "icon": "wind",
+      "image_url": "https://images.unsplash.com/photo-1530549387789-4c1017266635?auto=format&fit=crop&w=1000&q=80",
+      "video_url": null,
+      "description_ar": "الزفير تحت الماء والشهيق السريع هو مفتاح السباحة المريحة.",
+      "description_en": "Exhaling underwater and inhaling quickly is the key to relaxed swimming.",
+      "level": "beginner",
+      "estimated_minutes": 30,
+      "steps_ar": [
+        "خذ شهيقاً من الفم فوق الماء",
+        "أنزل وجهك وأخرج الزفير ببطء",
+        "ارفع رأسك أو أدره جانباً للشهيق",
+        "كرر 10 مرات بإيقاع ثابت"
+      ],
+      "steps_en": [
+        "Inhale through the mouth above water",
+        "Lower your face and exhale slowly",
+        "Lift or turn your head to inhale",
+        "Repeat 10 times with a steady rhythm"
+      ],
+      "tips_ar": [
+        "لا تحبس نفسك تحت الماء",
+        "الزفير الكامل يسهل الشهيق"
+      ],
+      "tips_en": [
+        "Never hold your breath underwater",
+        "A full exhale makes inhaling easier"
+      ],
+      "is_published": true,
+      "sort_order": 3,
+      "is_demo": true,
+      "created_at": "2026-11-09T16:25:11.322+00:00",
+      "updated_at": "2026-11-09T16:25:11.322+00:00"
+    },
+    {
+      "id": "e5500000-0000-4000-8000-000000000004",
+      "title_ar": "أساليب الطفو",
+      "title_en": "Floating Techniques",
+      "icon": "life-buoy",
+      "image_url": "https://images.unsplash.com/photo-1438029071396-1e831a7fa6d8?auto=format&fit=crop&w=1000&q=80",
+      "video_url": null,
+      "description_ar": "تعلّم الطفو على البطن والظهر بوضعية مسترخية.",
+      "description_en": "Learn to float on your front and back in a relaxed position.",
+      "level": "beginner",
+      "estimated_minutes": 40,
+      "steps_ar": [
+        "امسك الحافة ومد جسمك على البطن",
+        "اترك الحافة وافرد ذراعيك",
+        "للطفو على الظهر: ارفع الصدر وأرخِ الرأس للخلف",
+        "حافظ على الأذنين داخل الماء"
+      ],
+      "steps_en": [
+        "Hold the edge and stretch out on your front",
+        "Let go and extend your arms",
+        "For back float: lift your chest and relax your head back",
+        "Keep your ears in the water"
+      ],
+      "tips_ar": [
+        "الاسترخاء يساعد على الطفو",
+        "افرد الذراعين والرجلين كنجمة"
+      ],
+      "tips_en": [
+        "Relaxation helps you float",
+        "Spread arms and legs like a star"
+      ],
+      "is_published": true,
+      "sort_order": 4,
+      "is_demo": true,
+      "created_at": "2026-11-09T16:25:11.322+00:00",
+      "updated_at": "2026-11-09T16:25:11.322+00:00"
+    },
+    {
+      "id": "e5500000-0000-4000-8000-000000000005",
+      "title_ar": "وضعية الجسم",
+      "title_en": "Body Position",
+      "icon": "move-horizontal",
+      "image_url": "https://images.unsplash.com/photo-1519315901367-f34ff9154487?auto=format&fit=crop&w=1000&q=80",
+      "video_url": null,
+      "description_ar": "جسم أفقي ومستقيم يعني مقاومة أقل وسرعة أكبر.",
+      "description_en": "A flat, straight body means less drag and more speed.",
+      "level": "beginner",
+      "estimated_minutes": 30,
+      "steps_ar": [
+        "ادفع من الحائط بوضعية السهم",
+        "انظر إلى القاع وليس للأمام",
+        "حافظ على الوركين قريبين من السطح",
+        "شد عضلات البطن قليلاً"
+      ],
+      "steps_en": [
+        "Push off the wall in a streamline",
+        "Look at the bottom, not forward",
+        "Keep your hips near the surface",
+        "Lightly engage your core"
+      ],
+      "tips_ar": [
+        "الرأس المرفوع يُغرق الرجلين",
+        "ابقَ طويلاً كالسهم"
+      ],
+      "tips_en": [
+        "A raised head sinks your legs",
+        "Stay long like an arrow"
+      ],
+      "is_published": true,
+      "sort_order": 5,
+      "is_demo": true,
+      "created_at": "2026-11-09T16:25:11.322+00:00",
+      "updated_at": "2026-11-09T16:25:11.322+00:00"
+    },
+    {
+      "id": "e5500000-0000-4000-8000-000000000006",
+      "title_ar": "السباحة الحرة",
+      "title_en": "Freestyle",
+      "icon": "waves",
+      "image_url": "https://images.unsplash.com/photo-1530549387789-4c1017266635?auto=format&fit=crop&w=1000&q=80",
+      "video_url": null,
+      "description_ar": "أسرع الأساليب وأكثرها استخداماً: الذراعان، الرجلان، والتنفس الجانبي.",
+      "description_en": "The fastest and most common stroke: arms, kick and side breathing.",
+      "level": "beginner",
+      "estimated_minutes": 90,
+      "steps_ar": [
+        "ركلات رجلين سريعة من الورك",
+        "سحب الذراع تحت الجسم حتى الفخذ",
+        "استرجاع الذراع فوق الماء بمرفق مرتفع",
+        "التنفس الجانبي كل 2 أو 3 ضربات"
+      ],
+      "steps_en": [
+        "Quick kicks from the hips",
+        "Pull the arm under your body to the thigh",
+        "Recover the arm above water with a high elbow",
+        "Breathe to the side every 2 or 3 strokes"
+      ],
+      "tips_ar": [
+        "دوّر جسمك مع كل ضربة",
+        "لا ترفع رأسك للأمام"
+      ],
+      "tips_en": [
+        "Rotate your body with each stroke",
+        "Do not lift your head forward"
+      ],
+      "is_published": true,
+      "sort_order": 6,
+      "is_demo": true,
+      "created_at": "2026-11-09T16:25:11.322+00:00",
+      "updated_at": "2026-11-09T16:25:11.322+00:00"
+    },
+    {
+      "id": "e5500000-0000-4000-8000-000000000007",
+      "title_ar": "سباحة الظهر",
+      "title_en": "Backstroke",
+      "icon": "rotate-ccw",
+      "image_url": "https://images.unsplash.com/photo-1600965962361-9035dbfd1c50?auto=format&fit=crop&w=1000&q=80",
+      "video_url": null,
+      "description_ar": "السباحة على الظهر مع تنفس حر وحركة ذراعين متناوبة.",
+      "description_en": "Swimming on your back with free breathing and alternating arms.",
+      "level": "intermediate",
+      "estimated_minutes": 90,
+      "steps_ar": [
+        "استلقِ على ظهرك والوجه للأعلى",
+        "ركلات مستمرة من الورك",
+        "دخول الذراع بالخنصر أولاً",
+        "دوران الكتفين مع كل ضربة"
+      ],
+      "steps_en": [
+        "Lie on your back, face up",
+        "Continuous kicks from the hips",
+        "Enter the water little finger first",
+        "Roll your shoulders with each stroke"
+      ],
+      "tips_ar": [
+        "عدّ الضربات لمعرفة نهاية الحمام",
+        "ثبّت الرأس"
+      ],
+      "tips_en": [
+        "Count strokes to know where the wall is",
+        "Keep your head still"
+      ],
+      "is_published": true,
+      "sort_order": 7,
+      "is_demo": true,
+      "created_at": "2026-11-09T16:25:11.322+00:00",
+      "updated_at": "2026-11-09T16:25:11.322+00:00"
+    },
+    {
+      "id": "e5500000-0000-4000-8000-000000000008",
+      "title_ar": "سباحة الصدر",
+      "title_en": "Breaststroke",
+      "icon": "circle-dot",
+      "image_url": "https://images.unsplash.com/photo-1576013551627-0cc20b96c2a7?auto=format&fit=crop&w=1000&q=80",
+      "video_url": null,
+      "description_ar": "الأسلوب الأكثر تحكماً: سحب، تنفس، ركلة، انزلاق.",
+      "description_en": "The most controlled stroke: pull, breathe, kick, glide.",
+      "level": "intermediate",
+      "estimated_minutes": 90,
+      "steps_ar": [
+        "اسحب الذراعين للخارج ثم للداخل",
+        "ارفع الرأس للشهيق أثناء السحب",
+        "اضم القدمين واركل للخارج والخلف",
+        "انزلق بجسم مستقيم"
+      ],
+      "steps_en": [
+        "Pull arms out then in",
+        "Lift your head to breathe during the pull",
+        "Draw the feet up and kick out and back",
+        "Glide with a straight body"
+      ],
+      "tips_ar": [
+        "التوقيت أهم من القوة",
+        "لا تهمل الانزلاق"
+      ],
+      "tips_en": [
+        "Timing beats power",
+        "Do not skip the glide"
+      ],
+      "is_published": true,
+      "sort_order": 8,
+      "is_demo": true,
+      "created_at": "2026-11-09T16:25:11.322+00:00",
+      "updated_at": "2026-11-09T16:25:11.322+00:00"
+    },
+    {
+      "id": "e5500000-0000-4000-8000-000000000009",
+      "title_ar": "سباحة الفراشة",
+      "title_en": "Butterfly",
+      "icon": "feather",
+      "image_url": "https://images.unsplash.com/photo-1560090995-01632a28895b?auto=format&fit=crop&w=1000&q=80",
+      "video_url": null,
+      "description_ar": "أصعب الأساليب: حركة تموجية للجسم مع ذراعين متزامنتين.",
+      "description_en": "The most demanding stroke: a body wave with simultaneous arms.",
+      "level": "advanced",
+      "estimated_minutes": 120,
+      "steps_ar": [
+        "تعلم حركة الدولفين بالجسم",
+        "ركلتان لكل دورة ذراعين",
+        "استرجاع الذراعين معاً فوق الماء",
+        "تنفس للأمام بارتفاع بسيط"
+      ],
+      "steps_en": [
+        "Learn the dolphin body wave",
+        "Two kicks per arm cycle",
+        "Recover both arms together over the water",
+        "Breathe forward with a low lift"
+      ],
+      "tips_ar": [
+        "الإيقاع أهم من القوة",
+        "ابدأ بمسافات قصيرة"
+      ],
+      "tips_en": [
+        "Rhythm matters more than strength",
+        "Start with short distances"
+      ],
+      "is_published": true,
+      "sort_order": 9,
+      "is_demo": true,
+      "created_at": "2026-11-09T16:25:11.322+00:00",
+      "updated_at": "2026-11-09T16:25:11.322+00:00"
+    },
+    {
+      "id": "e5500000-0000-4000-8000-000000000010",
+      "title_ar": "السلامة في السباحة",
+      "title_en": "Swimming Safety",
+      "icon": "shield-check",
+      "image_url": "https://images.unsplash.com/photo-1575429198097-0414ec08e8cd?auto=format&fit=crop&w=1000&q=80",
+      "video_url": null,
+      "description_ar": "قواعد ذهبية للأمان داخل حمام السباحة وفي البحر.",
+      "description_en": "Golden safety rules in the pool and at sea.",
+      "level": "all",
+      "estimated_minutes": 25,
+      "steps_ar": [
+        "اسبح دائماً بوجود منقذ",
+        "تعرّف على عمق المياه",
+        "عند التعب: انقلب على ظهرك واطفُ",
+        "اطلب المساعدة برفع الذراع"
+      ],
+      "steps_en": [
+        "Always swim where a lifeguard is present",
+        "Know the water depth",
+        "When tired: turn onto your back and float",
+        "Raise your arm to call for help"
+      ],
+      "tips_ar": [
+        "لا تقفز في مياه مجهولة العمق",
+        "راقب الأطفال باستمرار"
+      ],
+      "tips_en": [
+        "Never dive into water of unknown depth",
+        "Watch children at all times"
+      ],
+      "is_published": true,
+      "sort_order": 10,
+      "is_demo": true,
+      "created_at": "2026-11-09T16:25:11.322+00:00",
+      "updated_at": "2026-11-09T16:25:11.322+00:00"
+    },
+    {
+      "id": "e5500000-0000-4000-8000-000000000011",
+      "title_ar": "أخطاء المبتدئين الشائعة",
+      "title_en": "Common Beginner Mistakes",
+      "icon": "alert-triangle",
+      "image_url": "https://images.unsplash.com/photo-1519315901367-f34ff9154487?auto=format&fit=crop&w=1000&q=80",
+      "video_url": null,
+      "description_ar": "تعرّف على الأخطاء الأكثر تكراراً وكيف تتجنبها.",
+      "description_en": "The most frequent mistakes and how to avoid them.",
+      "level": "beginner",
+      "estimated_minutes": 20,
+      "steps_ar": [
+        "رفع الرأس للأمام أثناء الحرة",
+        "حبس النفس تحت الماء",
+        "ركل الرجلين من الركبة",
+        "السرعة على حساب التقنية"
+      ],
+      "steps_en": [
+        "Lifting the head forward in freestyle",
+        "Holding the breath underwater",
+        "Kicking from the knees",
+        "Rushing instead of focusing on technique"
+      ],
+      "tips_ar": [
+        "صوّر نفسك وراجع الفيديو",
+        "اطلب ملاحظات من المدرب"
+      ],
+      "tips_en": [
+        "Film yourself and review",
+        "Ask your coach for feedback"
+      ],
+      "is_published": true,
+      "sort_order": 11,
+      "is_demo": true,
+      "created_at": "2026-11-09T16:25:11.322+00:00",
+      "updated_at": "2026-11-09T16:25:11.322+00:00"
+    },
+    {
+      "id": "e5500000-0000-4000-8000-000000000012",
+      "title_ar": "نصائح احترافية",
+      "title_en": "Professional Swimming Tips",
+      "icon": "trophy",
+      "image_url": "https://images.unsplash.com/photo-1530549387789-4c1017266635?auto=format&fit=crop&w=1000&q=80",
+      "video_url": null,
+      "description_ar": "أسرار السباحين المحترفين لتحسين الأداء.",
+      "description_en": "Secrets professional swimmers use to improve performance.",
+      "level": "advanced",
+      "estimated_minutes": 30,
+      "steps_ar": [
+        "ركّز على عدد الضربات لكل طول",
+        "تمرّن بفترات متنوعة الشدة",
+        "قوِّ عضلات الجذع خارج الماء",
+        "اهتم بالنوم والتغذية"
+      ],
+      "steps_en": [
+        "Track strokes per length",
+        "Train with varied-intensity intervals",
+        "Build core strength on dry land",
+        "Prioritise sleep and nutrition"
+      ],
+      "tips_ar": [
+        "الاستمرارية أهم من الشدة",
+        "سجّل أزمنتك أسبوعياً"
+      ],
+      "tips_en": [
+        "Consistency beats intensity",
+        "Log your times weekly"
+      ],
+      "is_published": true,
+      "sort_order": 12,
+      "is_demo": true,
+      "created_at": "2026-11-09T16:25:11.322+00:00",
+      "updated_at": "2026-11-09T16:25:11.322+00:00"
+    },
+    {
+      "id": "e5500000-0000-4000-8000-000000000013",
+      "title_ar": "ضربات الرجلين",
+      "title_en": "Kicking Technique",
+      "icon": "footprints",
+      "image_url": "https://images.unsplash.com/photo-1600965962361-9035dbfd1c50?auto=format&fit=crop&w=1000&q=80",
+      "video_url": null,
+      "description_ar": "ركلات فعّالة تدفعك للأمام وتحافظ على توازنك.",
+      "description_en": "Efficient kicks that drive you forward and keep you balanced.",
+      "level": "beginner",
+      "estimated_minutes": 30,
+      "steps_ar": [
+        "امسك اللوح وافرد ذراعيك",
+        "اركل من الورك بركبة مرنة",
+        "القدمان ممدودتان كالزعانف",
+        "ركلات صغيرة وسريعة"
+      ],
+      "steps_en": [
+        "Hold a kickboard with straight arms",
+        "Kick from the hip with soft knees",
+        "Point your toes like fins",
+        "Small, fast kicks"
+      ],
+      "tips_ar": [
+        "الرجلان لا تخرجان كثيراً من الماء"
+      ],
+      "tips_en": [
+        "Feet should barely break the surface"
+      ],
+      "is_published": true,
+      "sort_order": 13,
+      "is_demo": true,
+      "created_at": "2026-11-09T16:25:11.322+00:00",
+      "updated_at": "2026-11-09T16:25:11.322+00:00"
+    },
+    {
+      "id": "e5500000-0000-4000-8000-000000000014",
+      "title_ar": "الطفو العمودي",
+      "title_en": "Treading Water",
+      "icon": "anchor",
+      "image_url": "https://images.unsplash.com/photo-1438029071396-1e831a7fa6d8?auto=format&fit=crop&w=1000&q=80",
+      "video_url": null,
+      "description_ar": "البقاء في مكانك في المياه العميقة بأقل مجهود.",
+      "description_en": "Staying in place in deep water with minimal effort.",
+      "level": "intermediate",
+      "estimated_minutes": 40,
+      "steps_ar": [
+        "حافظ على الجسم عمودياً",
+        "حرّك اليدين أفقياً كأنك تمسح الطاولة",
+        "ركلة الدراجة أو ركلة الصدر",
+        "تنفّس بهدوء"
+      ],
+      "steps_en": [
+        "Keep your body vertical",
+        "Scull your hands horizontally",
+        "Use a cycling or breaststroke kick",
+        "Breathe calmly"
+      ],
+      "tips_ar": [
+        "مهارة أساسية للنجاة",
+        "تدرّب بجانب الحافة أولاً"
+      ],
+      "tips_en": [
+        "A core survival skill",
+        "Practise next to the wall first"
+      ],
+      "is_published": true,
+      "sort_order": 14,
+      "is_demo": true,
+      "created_at": "2026-11-09T16:25:11.322+00:00",
+      "updated_at": "2026-11-09T16:25:11.322+00:00"
+    },
+    {
+      "id": "e5500000-0000-4000-8000-000000000015",
+      "title_ar": "الدوران والدفع من الحائط",
+      "title_en": "Turns & Push-offs",
+      "icon": "repeat",
+      "image_url": "https://images.unsplash.com/photo-1519315901367-f34ff9154487?auto=format&fit=crop&w=1000&q=80",
+      "video_url": null,
+      "description_ar": "دورانات سريعة ودفع قوي لتوفير الوقت والجهد.",
+      "description_en": "Fast turns and powerful push-offs to save time and energy.",
+      "level": "advanced",
+      "estimated_minutes": 60,
+      "steps_ar": [
+        "اقترب من الحائط دون إبطاء",
+        "الدوران المفتوح للصدر والفراشة",
+        "الدوران الانقلابي للحرة والظهر",
+        "ادفع بوضعية السهم وانزلق"
+      ],
+      "steps_en": [
+        "Approach the wall without slowing",
+        "Open turn for breaststroke and butterfly",
+        "Flip turn for freestyle and backstroke",
+        "Push off in a streamline and glide"
+      ],
+      "tips_ar": [
+        "أخرج الهواء من الأنف أثناء الانقلاب"
+      ],
+      "tips_en": [
+        "Exhale through your nose during the flip"
+      ],
+      "is_published": true,
+      "sort_order": 15,
+      "is_demo": true,
+      "created_at": "2026-11-09T16:25:11.322+00:00",
+      "updated_at": "2026-11-09T16:25:11.322+00:00"
+    }
+  ],
+  "lessonVids": [
+    {
+      "lesson_id": "e5500000-0000-4000-8000-000000000001",
+      "video_id": "f1d00000-0000-4000-8000-000000000002"
+    },
+    {
+      "lesson_id": "e5500000-0000-4000-8000-000000000002",
+      "video_id": "f1d00000-0000-4000-8000-000000000012"
+    },
+    {
+      "lesson_id": "e5500000-0000-4000-8000-000000000003",
+      "video_id": "f1d00000-0000-4000-8000-000000000006"
+    },
+    {
+      "lesson_id": "e5500000-0000-4000-8000-000000000003",
+      "video_id": "f1d00000-0000-4000-8000-000000000007"
+    },
+    {
+      "lesson_id": "e5500000-0000-4000-8000-000000000004",
+      "video_id": "f1d00000-0000-4000-8000-000000000011"
+    },
+    {
+      "lesson_id": "e5500000-0000-4000-8000-000000000004",
+      "video_id": "f1d00000-0000-4000-8000-000000000012"
+    },
+    {
+      "lesson_id": "e5500000-0000-4000-8000-000000000005",
+      "video_id": "f1d00000-0000-4000-8000-000000000008"
+    },
+    {
+      "lesson_id": "e5500000-0000-4000-8000-000000000006",
+      "video_id": "f1d00000-0000-4000-8000-000000000001"
+    },
+    {
+      "lesson_id": "e5500000-0000-4000-8000-000000000006",
+      "video_id": "f1d00000-0000-4000-8000-000000000003"
+    },
+    {
+      "lesson_id": "e5500000-0000-4000-8000-000000000007",
+      "video_id": "f1d00000-0000-4000-8000-000000000004"
+    },
+    {
+      "lesson_id": "e5500000-0000-4000-8000-000000000008",
+      "video_id": "f1d00000-0000-4000-8000-000000000005"
+    },
+    {
+      "lesson_id": "e5500000-0000-4000-8000-000000000009",
+      "video_id": "f1d00000-0000-4000-8000-000000000009"
+    },
+    {
+      "lesson_id": "e5500000-0000-4000-8000-000000000010",
+      "video_id": "f1d00000-0000-4000-8000-000000000011"
+    },
+    {
+      "lesson_id": "e5500000-0000-4000-8000-000000000011",
+      "video_id": "f1d00000-0000-4000-8000-000000000010"
+    },
+    {
+      "lesson_id": "e5500000-0000-4000-8000-000000000012",
+      "video_id": "f1d00000-0000-4000-8000-000000000010"
+    }
+  ],
+  "ages": [
+    {
+      "id": "a9e00000-0000-4000-8000-000000000001",
+      "name_ar": "الأطفال الصغار",
+      "name_en": "Young Children",
+      "age_min": 3,
+      "age_max": 5,
+      "icon": "baby",
+      "image_url": "https://images.unsplash.com/photo-1564415637254-92c66292cd64?auto=format&fit=crop&w=1000&q=80",
+      "approach_ar": "التعلم من خلال اللعب والأغاني والأدوات الطافية مع وجود ولي الأمر.",
+      "approach_en": "Learning through play, songs and floating aids, with a parent nearby.",
+      "objectives_ar": [
+        "التعوّد على الماء",
+        "الطفو بمساعدة",
+        "النفخ في الماء"
+      ],
+      "objectives_en": [
+        "Getting comfortable in water",
+        "Assisted floating",
+        "Blowing bubbles"
+      ],
+      "considerations_ar": [
+        "حصص قصيرة 30 دقيقة",
+        "مجموعات صغيرة جداً",
+        "حضور ولي الأمر مطلوب"
+      ],
+      "considerations_en": [
+        "Short 30-minute sessions",
+        "Very small groups",
+        "Parent attendance required"
+      ],
+      "requires_guardian": true,
+      "is_published": true,
+      "sort_order": 1,
+      "is_demo": true,
+      "created_at": "2026-11-09T16:25:11.322+00:00",
+      "updated_at": "2026-11-09T16:25:11.322+00:00"
+    },
+    {
+      "id": "a9e00000-0000-4000-8000-000000000002",
+      "name_ar": "الأطفال",
+      "name_en": "Children",
+      "age_min": 6,
+      "age_max": 12,
+      "icon": "smile",
+      "image_url": "https://images.unsplash.com/photo-1600965962361-9035dbfd1c50?auto=format&fit=crop&w=1000&q=80",
+      "approach_ar": "منهج متدرج بمستويات واضحة ومكافآت تحفيزية لكل مرحلة.",
+      "approach_en": "A progressive curriculum with clear levels and motivating rewards for each stage.",
+      "objectives_ar": [
+        "السباحة الحرة والظهر",
+        "التنفس الصحيح",
+        "مهارات الأمان"
+      ],
+      "objectives_en": [
+        "Freestyle and backstroke",
+        "Correct breathing",
+        "Safety skills"
+      ],
+      "considerations_ar": [
+        "تقرير تقدم لولي الأمر",
+        "الانضباط داخل الحارة"
+      ],
+      "considerations_en": [
+        "Progress reports for parents",
+        "Lane discipline"
+      ],
+      "requires_guardian": true,
+      "is_published": true,
+      "sort_order": 2,
+      "is_demo": true,
+      "created_at": "2026-11-09T16:25:11.322+00:00",
+      "updated_at": "2026-11-09T16:25:11.322+00:00"
+    },
+    {
+      "id": "a9e00000-0000-4000-8000-000000000003",
+      "name_ar": "المراهقون",
+      "name_en": "Teenagers",
+      "age_min": 13,
+      "age_max": 17,
+      "icon": "zap",
+      "image_url": "https://images.unsplash.com/photo-1519315901367-f34ff9154487?auto=format&fit=crop&w=1000&q=80",
+      "approach_ar": "تطوير التقنية واللياقة مع إمكانية التحضير للمنافسات.",
+      "approach_en": "Technique and fitness development, with an optional competition track.",
+      "objectives_ar": [
+        "إتقان الأساليب الأربعة",
+        "تحسين السرعة والتحمل",
+        "الدورانات والبدايات"
+      ],
+      "objectives_en": [
+        "Master all four strokes",
+        "Improve speed and endurance",
+        "Turns and starts"
+      ],
+      "considerations_ar": [
+        "موافقة ولي الأمر مطلوبة",
+        "برامج لياقة مكمّلة"
+      ],
+      "considerations_en": [
+        "Guardian consent required",
+        "Complementary dry-land fitness"
+      ],
+      "requires_guardian": true,
+      "is_published": true,
+      "sort_order": 3,
+      "is_demo": true,
+      "created_at": "2026-11-09T16:25:11.322+00:00",
+      "updated_at": "2026-11-09T16:25:11.322+00:00"
+    },
+    {
+      "id": "a9e00000-0000-4000-8000-000000000004",
+      "name_ar": "الكبار",
+      "name_en": "Adults",
+      "age_min": 18,
+      "age_max": 59,
+      "icon": "user",
+      "image_url": "https://images.unsplash.com/photo-1438029071396-1e831a7fa6d8?auto=format&fit=crop&w=1000&q=80",
+      "approach_ar": "أسلوب هادئ يحترم مخاوف الكبار ويبني الثقة بسرعة.",
+      "approach_en": "A calm approach that respects adult fears and builds confidence quickly.",
+      "objectives_ar": [
+        "التغلب على الخوف من الماء",
+        "السباحة لمسافات",
+        "اللياقة البدنية"
+      ],
+      "objectives_en": [
+        "Overcome fear of water",
+        "Swim longer distances",
+        "Fitness and wellbeing"
+      ],
+      "considerations_ar": [
+        "مواعيد مسائية مناسبة للعمل",
+        "دروس خاصة متاحة"
+      ],
+      "considerations_en": [
+        "Evening slots for working adults",
+        "Private lessons available"
+      ],
+      "requires_guardian": false,
+      "is_published": true,
+      "sort_order": 4,
+      "is_demo": true,
+      "created_at": "2026-11-09T16:25:11.322+00:00",
+      "updated_at": "2026-11-09T16:25:11.322+00:00"
+    },
+    {
+      "id": "a9e00000-0000-4000-8000-000000000005",
+      "name_ar": "كبار السن",
+      "name_en": "Seniors",
+      "age_min": 60,
+      "age_max": null,
+      "icon": "heart",
+      "image_url": "https://images.unsplash.com/photo-1575429198097-0414ec08e8cd?auto=format&fit=crop&w=1000&q=80",
+      "approach_ar": "تمارين مائية منخفضة الضغط على المفاصل مع تركيز على التوازن والأمان.",
+      "approach_en": "Low-impact water exercise that is gentle on joints, focused on balance and safety.",
+      "objectives_ar": [
+        "الحفاظ على الحركة واللياقة",
+        "تحسين التنفس",
+        "الأمان في الماء"
+      ],
+      "objectives_en": [
+        "Maintain mobility and fitness",
+        "Improve breathing",
+        "Water safety"
+      ],
+      "considerations_ar": [
+        "يفضل استشارة الطبيب قبل البدء",
+        "مياه دافئة إن أمكن"
+      ],
+      "considerations_en": [
+        "Consult a doctor before starting",
+        "Warm water pools preferred"
+      ],
+      "requires_guardian": false,
+      "is_published": true,
+      "sort_order": 5,
+      "is_demo": true,
+      "created_at": "2026-11-09T16:25:11.322+00:00",
+      "updated_at": "2026-11-09T16:25:11.322+00:00"
+    }
+  ],
+  "equipment": [
+    {
+      "id": "02a6e01d-8261-48dc-939c-73eb363465f9",
+      "name_ar": "مايوه سباحة",
+      "name_en": "Swimsuit",
+      "description_ar": "مايوه رياضي مريح ومناسب للتدريب (يفضل من الليكرا).",
+      "description_en": "A comfortable athletic training swimsuit (lycra preferred).",
+      "icon": "shirt",
+      "image_url": null,
+      "category": "essential",
+      "is_published": true,
+      "sort_order": 1,
+      "is_demo": true,
+      "created_at": "2026-11-09T16:25:11.322+00:00",
+      "updated_at": "2026-11-09T16:25:11.322+00:00"
+    },
+    {
+      "id": "506ee275-3213-4650-adf2-3076010baf0d",
+      "name_ar": "نظارة سباحة",
+      "name_en": "Swimming Goggles",
+      "description_ar": "نظارة مناسبة لمقاس الوجه لا يدخلها الماء.",
+      "description_en": "Well-fitting goggles that keep water out.",
+      "icon": "glasses",
+      "image_url": null,
+      "category": "essential",
+      "is_published": true,
+      "sort_order": 2,
+      "is_demo": true,
+      "created_at": "2026-11-09T16:25:11.322+00:00",
+      "updated_at": "2026-11-09T16:25:11.322+00:00"
+    },
+    {
+      "id": "b20431c4-e7b6-45ef-a7bf-a903c36a714e",
+      "name_ar": "غطاء رأس",
+      "name_en": "Swimming Cap",
+      "description_ar": "غطاء سيليكون يحمي الشعر ويحافظ على نظافة الحمام.",
+      "description_en": "A silicone cap to protect hair and keep the pool clean.",
+      "icon": "hard-hat",
+      "image_url": null,
+      "category": "essential",
+      "is_published": true,
+      "sort_order": 3,
+      "is_demo": true,
+      "created_at": "2026-11-09T16:25:11.322+00:00",
+      "updated_at": "2026-11-09T16:25:11.322+00:00"
+    },
+    {
+      "id": "4e59dae5-7037-4754-92e9-3e59ac150b2b",
+      "name_ar": "فوطة",
+      "name_en": "Towel",
+      "description_ar": "فوطة سريعة الجفاف للاستخدام بعد التمرين.",
+      "description_en": "A quick-dry towel for after training.",
+      "icon": "layers",
+      "image_url": null,
+      "category": "essential",
+      "is_published": true,
+      "sort_order": 4,
+      "is_demo": true,
+      "created_at": "2026-11-09T16:25:11.322+00:00",
+      "updated_at": "2026-11-09T16:25:11.322+00:00"
+    },
+    {
+      "id": "21f4ef19-a123-4124-9cff-195f98fb18a2",
+      "name_ar": "شبشب سباحة",
+      "name_en": "Pool Slippers",
+      "description_ar": "شبشب مانع للانزلاق للمشي حول حمام السباحة.",
+      "description_en": "Non-slip slippers for walking on the pool deck.",
+      "icon": "footprints",
+      "image_url": null,
+      "category": "essential",
+      "is_published": true,
+      "sort_order": 5,
+      "is_demo": true,
+      "created_at": "2026-11-09T16:25:11.322+00:00",
+      "updated_at": "2026-11-09T16:25:11.322+00:00"
+    },
+    {
+      "id": "2c66915c-57ab-4eef-8739-97e1ad494de2",
+      "name_ar": "زجاجة مياه",
+      "name_en": "Water Bottle",
+      "description_ar": "للحفاظ على الترطيب أثناء وبعد التمرين.",
+      "description_en": "Stay hydrated during and after training.",
+      "icon": "glass-water",
+      "image_url": null,
+      "category": "essential",
+      "is_published": true,
+      "sort_order": 6,
+      "is_demo": true,
+      "created_at": "2026-11-09T16:25:11.322+00:00",
+      "updated_at": "2026-11-09T16:25:11.322+00:00"
+    },
+    {
+      "id": "ba26a15e-b665-45d6-8c62-41d81656ae9c",
+      "name_ar": "لوح الركلات",
+      "name_en": "Kickboard",
+      "description_ar": "أداة مساعدة لتمارين الرجلين (متوفرة في معظم الحمامات).",
+      "description_en": "A training aid for kick drills (available at most pools).",
+      "icon": "rectangle-horizontal",
+      "image_url": null,
+      "category": "recommended",
+      "is_published": true,
+      "sort_order": 7,
+      "is_demo": true,
+      "created_at": "2026-11-09T16:25:11.322+00:00",
+      "updated_at": "2026-11-09T16:25:11.322+00:00"
+    },
+    {
+      "id": "3b475fe1-07ef-4e9a-9cf5-0e3ef577cffa",
+      "name_ar": "زعانف قصيرة وسدادات أذن",
+      "name_en": "Short Fins & Ear Plugs",
+      "description_ar": "زعانف لتقوية الرجلين وسدادات لمن يعاني من حساسية الأذن.",
+      "description_en": "Fins to build leg strength, ear plugs for sensitive ears.",
+      "icon": "plus-circle",
+      "image_url": null,
+      "category": "recommended",
+      "is_published": true,
+      "sort_order": 8,
+      "is_demo": true,
+      "created_at": "2026-11-09T16:25:11.322+00:00",
+      "updated_at": "2026-11-09T16:25:11.322+00:00"
+    }
+  ],
+  "locations": [
+    {
+      "id": "10c00000-0000-4000-8000-000000000001",
+      "name_ar": "مركز الموجة الزرقاء للسباحة (تجريبي)",
+      "name_en": "Blue Wave Aquatic Center (Demo)",
+      "image_url": "https://images.unsplash.com/photo-1576013551627-0cc20b96c2a7?auto=format&fit=crop&w=1200&q=80",
+      "gallery_urls": [
+        "https://images.unsplash.com/photo-1519315901367-f34ff9154487?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1575429198097-0414ec08e8cd?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "address_ar": "شارع تجريبي 10، مدينة نصر",
+      "address_en": "10 Demo Street, Nasr City",
+      "city_ar": "القاهرة",
+      "city_en": "Cairo",
+      "map_url": "https://www.google.com/maps/search/?api=1&query=Nasr+City+Cairo",
+      "map_embed_url": "https://www.google.com/maps?q=Nasr+City,+Cairo&output=embed",
+      "facilities_ar": [
+        "حمام أولمبي 50 متر",
+        "غرف تغيير ملابس",
+        "دُش ساخن",
+        "موقف سيارات",
+        "منقذ معتمد"
+      ],
+      "facilities_en": [
+        "50m Olympic pool",
+        "Changing rooms",
+        "Hot showers",
+        "Parking",
+        "Certified lifeguard"
+      ],
+      "training_days": [
+        0,
+        2,
+        4
+      ],
+      "working_hours_ar": "من 7 صباحاً حتى 10 مساءً",
+      "working_hours_en": "7:00 AM – 10:00 PM",
+      "phone": "+20 100 000 0001",
+      "whatsapp": "201000000001",
+      "email": null,
+      "is_published": true,
+      "sort_order": 1,
+      "is_demo": true,
+      "created_at": "2026-11-09T16:25:11.322+00:00",
+      "updated_at": "2026-11-09T16:25:11.322+00:00"
+    },
+    {
+      "id": "10c00000-0000-4000-8000-000000000002",
+      "name_ar": "نادي أكوا بارك التجمع (تجريبي)",
+      "name_en": "Aqua Park Club, New Cairo (Demo)",
+      "image_url": "https://images.unsplash.com/photo-1575429198097-0414ec08e8cd?auto=format&fit=crop&w=1200&q=80",
+      "gallery_urls": [
+        "https://images.unsplash.com/photo-1576013551627-0cc20b96c2a7?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "address_ar": "التسعين الشمالي، التجمع الخامس",
+      "address_en": "North 90th Street, Fifth Settlement",
+      "city_ar": "القاهرة الجديدة",
+      "city_en": "New Cairo",
+      "map_url": "https://www.google.com/maps/search/?api=1&query=Fifth+Settlement+New+Cairo",
+      "map_embed_url": "https://www.google.com/maps?q=Fifth+Settlement,+New+Cairo&output=embed",
+      "facilities_ar": [
+        "حمام مُدفأ 25 متر",
+        "حمام تعليمي للأطفال",
+        "كافتيريا",
+        "غرف تغيير ملابس"
+      ],
+      "facilities_en": [
+        "25m heated pool",
+        "Kids learning pool",
+        "Cafeteria",
+        "Changing rooms"
+      ],
+      "training_days": [
+        1,
+        3,
+        5
+      ],
+      "working_hours_ar": "من 8 صباحاً حتى 9 مساءً",
+      "working_hours_en": "8:00 AM – 9:00 PM",
+      "phone": "+20 100 000 0002",
+      "whatsapp": "201000000002",
+      "email": null,
+      "is_published": true,
+      "sort_order": 2,
+      "is_demo": true,
+      "created_at": "2026-11-09T16:25:11.322+00:00",
+      "updated_at": "2026-11-09T16:25:11.322+00:00"
+    },
+    {
+      "id": "10c00000-0000-4000-8000-000000000003",
+      "name_ar": "مجمع زايد الرياضي (تجريبي)",
+      "name_en": "Zayed Sports Complex (Demo)",
+      "image_url": "https://images.unsplash.com/photo-1519315901367-f34ff9154487?auto=format&fit=crop&w=1200&q=80",
+      "gallery_urls": [
+        "https://images.unsplash.com/photo-1530549387789-4c1017266635?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "address_ar": "المحور المركزي، الشيخ زايد",
+      "address_en": "Central Axis, Sheikh Zayed",
+      "city_ar": "الجيزة",
+      "city_en": "Giza",
+      "map_url": "https://www.google.com/maps/search/?api=1&query=Sheikh+Zayed+City",
+      "map_embed_url": "https://www.google.com/maps?q=Sheikh+Zayed+City&output=embed",
+      "facilities_ar": [
+        "حمام 25 متر",
+        "صالة لياقة",
+        "موقف سيارات",
+        "منطقة انتظار لأولياء الأمور"
+      ],
+      "facilities_en": [
+        "25m pool",
+        "Fitness gym",
+        "Parking",
+        "Parents waiting area"
+      ],
+      "training_days": [
+        0,
+        1,
+        3
+      ],
+      "working_hours_ar": "من 9 صباحاً حتى 10 مساءً",
+      "working_hours_en": "9:00 AM – 10:00 PM",
+      "phone": "+20 100 000 0003",
+      "whatsapp": "201000000003",
+      "email": null,
+      "is_published": true,
+      "sort_order": 3,
+      "is_demo": true,
+      "created_at": "2026-11-09T16:25:11.322+00:00",
+      "updated_at": "2026-11-09T16:25:11.322+00:00"
+    },
+    {
+      "id": "10c00000-0000-4000-8000-000000000004",
+      "name_ar": "نادي المعادي المائي (تجريبي)",
+      "name_en": "Maadi Aquatic Club (Demo)",
+      "image_url": "https://images.unsplash.com/photo-1530549387789-4c1017266635?auto=format&fit=crop&w=1200&q=80",
+      "gallery_urls": [
+        "https://images.unsplash.com/photo-1576013551627-0cc20b96c2a7?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "address_ar": "شارع 9، المعادي",
+      "address_en": "Street 9, Maadi",
+      "city_ar": "القاهرة",
+      "city_en": "Cairo",
+      "map_url": "https://www.google.com/maps/search/?api=1&query=Maadi+Cairo",
+      "map_embed_url": "https://www.google.com/maps?q=Maadi,+Cairo&output=embed",
+      "facilities_ar": [
+        "حمام مُدفأ",
+        "غرف تغيير ملابس خاصة",
+        "دروس خاصة",
+        "منقذ معتمد"
+      ],
+      "facilities_en": [
+        "Heated pool",
+        "Private changing rooms",
+        "Private lessons",
+        "Certified lifeguard"
+      ],
+      "training_days": [
+        2,
+        4,
+        6
+      ],
+      "working_hours_ar": "من 7 صباحاً حتى 8 مساءً",
+      "working_hours_en": "7:00 AM – 8:00 PM",
+      "phone": "+20 100 000 0004",
+      "whatsapp": "201000000004",
+      "email": null,
+      "is_published": true,
+      "sort_order": 4,
+      "is_demo": true,
+      "created_at": "2026-11-09T16:25:11.322+00:00",
+      "updated_at": "2026-11-09T16:25:11.322+00:00"
+    }
+  ],
+  "schedules": [
+    {
+      "id": "5c000000-0000-4000-8000-000000000016",
+      "course_id": "c0000000-0000-4000-8000-000000000007",
+      "location_id": "10c00000-0000-4000-8000-000000000001",
+      "coach_id": "c0ac0000-0000-4000-8000-000000000001",
+      "age_group_id": "a9e00000-0000-4000-8000-000000000003",
+      "day_of_week": 0,
+      "start_time": "06:30:00",
+      "end_time": "08:00:00",
+      "capacity": 12,
+      "booked_count": 8,
+      "status": "open",
+      "notes_ar": null,
+      "notes_en": null,
+      "is_published": true,
+      "sort_order": 16,
+      "is_demo": true,
+      "created_at": "2026-11-09T16:25:11.322+00:00",
+      "updated_at": "2026-11-09T16:25:11.322+00:00"
+    },
+    {
+      "id": "5c000000-0000-4000-8000-000000000019",
+      "course_id": "c0000000-0000-4000-8000-000000000008",
+      "location_id": "10c00000-0000-4000-8000-000000000003",
+      "coach_id": "c0ac0000-0000-4000-8000-000000000001",
+      "age_group_id": "a9e00000-0000-4000-8000-000000000002",
+      "day_of_week": 0,
+      "start_time": "11:00:00",
+      "end_time": "11:40:00",
+      "capacity": 8,
+      "booked_count": 3,
+      "status": "open",
+      "notes_ar": null,
+      "notes_en": null,
+      "is_published": true,
+      "sort_order": 19,
+      "is_demo": true,
+      "created_at": "2026-11-09T16:25:11.322+00:00",
+      "updated_at": "2026-11-09T16:25:11.322+00:00"
+    },
+    {
+      "id": "5c000000-0000-4000-8000-000000000001",
+      "course_id": "c0000000-0000-4000-8000-000000000001",
+      "location_id": "10c00000-0000-4000-8000-000000000001",
+      "coach_id": "c0ac0000-0000-4000-8000-000000000001",
+      "age_group_id": "a9e00000-0000-4000-8000-000000000002",
+      "day_of_week": 0,
+      "start_time": "16:00:00",
+      "end_time": "16:45:00",
+      "capacity": 10,
+      "booked_count": 5,
+      "status": "open",
+      "notes_ar": null,
+      "notes_en": null,
+      "is_published": true,
+      "sort_order": 1,
+      "is_demo": true,
+      "created_at": "2026-11-09T16:25:11.322+00:00",
+      "updated_at": "2026-11-09T16:25:11.322+00:00"
+    },
+    {
+      "id": "5c000000-0000-4000-8000-000000000005",
+      "course_id": "c0000000-0000-4000-8000-000000000002",
+      "location_id": "10c00000-0000-4000-8000-000000000003",
+      "coach_id": "c0ac0000-0000-4000-8000-000000000001",
+      "age_group_id": "a9e00000-0000-4000-8000-000000000003",
+      "day_of_week": 0,
+      "start_time": "18:00:00",
+      "end_time": "19:00:00",
+      "capacity": 10,
+      "booked_count": 3,
+      "status": "open",
+      "notes_ar": null,
+      "notes_en": null,
+      "is_published": true,
+      "sort_order": 5,
+      "is_demo": true,
+      "created_at": "2026-11-09T16:25:11.322+00:00",
+      "updated_at": "2026-11-09T16:25:11.322+00:00"
+    },
+    {
+      "id": "5c000000-0000-4000-8000-000000000007",
+      "course_id": "c0000000-0000-4000-8000-000000000004",
+      "location_id": "10c00000-0000-4000-8000-000000000002",
+      "coach_id": "c0ac0000-0000-4000-8000-000000000001",
+      "age_group_id": "a9e00000-0000-4000-8000-000000000001",
+      "day_of_week": 1,
+      "start_time": "10:00:00",
+      "end_time": "10:40:00",
+      "capacity": 6,
+      "booked_count": 3,
+      "status": "open",
+      "notes_ar": null,
+      "notes_en": null,
+      "is_published": true,
+      "sort_order": 7,
+      "is_demo": true,
+      "created_at": "2026-11-09T16:25:11.322+00:00",
+      "updated_at": "2026-11-09T16:25:11.322+00:00"
+    },
+    {
+      "id": "5c000000-0000-4000-8000-000000000010",
+      "course_id": "c0000000-0000-4000-8000-000000000004",
+      "location_id": "10c00000-0000-4000-8000-000000000003",
+      "coach_id": "c0ac0000-0000-4000-8000-000000000001",
+      "age_group_id": "a9e00000-0000-4000-8000-000000000001",
+      "day_of_week": 1,
+      "start_time": "11:00:00",
+      "end_time": "11:40:00",
+      "capacity": 6,
+      "booked_count": 3,
+      "status": "open",
+      "notes_ar": null,
+      "notes_en": null,
+      "is_published": true,
+      "sort_order": 10,
+      "is_demo": true,
+      "created_at": "2026-11-09T16:25:11.322+00:00",
+      "updated_at": "2026-11-09T16:25:11.322+00:00"
+    },
+    {
+      "id": "5c000000-0000-4000-8000-000000000020",
+      "course_id": "c0000000-0000-4000-8000-000000000002",
+      "location_id": "10c00000-0000-4000-8000-000000000002",
+      "coach_id": "c0ac0000-0000-4000-8000-000000000001",
+      "age_group_id": "a9e00000-0000-4000-8000-000000000004",
+      "day_of_week": 1,
+      "start_time": "19:00:00",
+      "end_time": "20:00:00",
+      "capacity": 10,
+      "booked_count": 4,
+      "status": "closed",
+      "notes_ar": null,
+      "notes_en": null,
+      "is_published": true,
+      "sort_order": 20,
+      "is_demo": true,
+      "created_at": "2026-11-09T16:25:11.322+00:00",
+      "updated_at": "2026-11-09T16:25:11.322+00:00"
+    },
+    {
+      "id": "5c000000-0000-4000-8000-000000000006",
+      "course_id": "c0000000-0000-4000-8000-000000000003",
+      "location_id": "10c00000-0000-4000-8000-000000000001",
+      "coach_id": "c0ac0000-0000-4000-8000-000000000001",
+      "age_group_id": "a9e00000-0000-4000-8000-000000000003",
+      "day_of_week": 2,
+      "start_time": "18:00:00",
+      "end_time": "19:15:00",
+      "capacity": 8,
+      "booked_count": 4,
+      "status": "open",
+      "notes_ar": null,
+      "notes_en": null,
+      "is_published": true,
+      "sort_order": 6,
+      "is_demo": true,
+      "created_at": "2026-11-09T16:25:11.322+00:00",
+      "updated_at": "2026-11-09T16:25:11.322+00:00"
+    },
+    {
+      "id": "5c000000-0000-4000-8000-000000000002",
+      "course_id": "c0000000-0000-4000-8000-000000000001",
+      "location_id": "10c00000-0000-4000-8000-000000000001",
+      "coach_id": "c0ac0000-0000-4000-8000-000000000001",
+      "age_group_id": "a9e00000-0000-4000-8000-000000000004",
+      "day_of_week": 2,
+      "start_time": "19:00:00",
+      "end_time": "19:45:00",
+      "capacity": 10,
+      "booked_count": 3,
+      "status": "open",
+      "notes_ar": null,
+      "notes_en": null,
+      "is_published": true,
+      "sort_order": 2,
+      "is_demo": true,
+      "created_at": "2026-11-09T16:25:11.322+00:00",
+      "updated_at": "2026-11-09T16:25:11.322+00:00"
+    },
+    {
+      "id": "5c000000-0000-4000-8000-000000000012",
+      "course_id": "c0000000-0000-4000-8000-000000000005",
+      "location_id": "10c00000-0000-4000-8000-000000000004",
+      "coach_id": "c0ac0000-0000-4000-8000-000000000001",
+      "age_group_id": "a9e00000-0000-4000-8000-000000000004",
+      "day_of_week": 2,
+      "start_time": "19:00:00",
+      "end_time": "19:50:00",
+      "capacity": 8,
+      "booked_count": 4,
+      "status": "open",
+      "notes_ar": null,
+      "notes_en": null,
+      "is_published": true,
+      "sort_order": 12,
+      "is_demo": true,
+      "created_at": "2026-11-09T16:25:11.322+00:00",
+      "updated_at": "2026-11-09T16:25:11.322+00:00"
+    },
+    {
+      "id": "5c000000-0000-4000-8000-000000000008",
+      "course_id": "c0000000-0000-4000-8000-000000000004",
+      "location_id": "10c00000-0000-4000-8000-000000000002",
+      "coach_id": "c0ac0000-0000-4000-8000-000000000001",
+      "age_group_id": "a9e00000-0000-4000-8000-000000000002",
+      "day_of_week": 3,
+      "start_time": "16:00:00",
+      "end_time": "16:40:00",
+      "capacity": 8,
+      "booked_count": 5,
+      "status": "open",
+      "notes_ar": null,
+      "notes_en": null,
+      "is_published": true,
+      "sort_order": 8,
+      "is_demo": true,
+      "created_at": "2026-11-09T16:25:11.322+00:00",
+      "updated_at": "2026-11-09T16:25:11.322+00:00"
+    },
+    {
+      "id": "5c000000-0000-4000-8000-000000000003",
+      "course_id": "c0000000-0000-4000-8000-000000000001",
+      "location_id": "10c00000-0000-4000-8000-000000000003",
+      "coach_id": "c0ac0000-0000-4000-8000-000000000001",
+      "age_group_id": "a9e00000-0000-4000-8000-000000000002",
+      "day_of_week": 3,
+      "start_time": "17:00:00",
+      "end_time": "17:45:00",
+      "capacity": 8,
+      "booked_count": 2,
+      "status": "open",
+      "notes_ar": null,
+      "notes_en": null,
+      "is_published": true,
+      "sort_order": 3,
+      "is_demo": true,
+      "created_at": "2026-11-09T16:25:11.322+00:00",
+      "updated_at": "2026-11-09T16:25:11.322+00:00"
+    },
+    {
+      "id": "5c000000-0000-4000-8000-000000000017",
+      "course_id": "c0000000-0000-4000-8000-000000000007",
+      "location_id": "10c00000-0000-4000-8000-000000000001",
+      "coach_id": "c0ac0000-0000-4000-8000-000000000001",
+      "age_group_id": "a9e00000-0000-4000-8000-000000000003",
+      "day_of_week": 4,
+      "start_time": "06:30:00",
+      "end_time": "08:00:00",
+      "capacity": 12,
+      "booked_count": 6,
+      "status": "open",
+      "notes_ar": null,
+      "notes_en": null,
+      "is_published": true,
+      "sort_order": 17,
+      "is_demo": true,
+      "created_at": "2026-11-09T16:25:11.322+00:00",
+      "updated_at": "2026-11-09T16:25:11.322+00:00"
+    },
+    {
+      "id": "5c000000-0000-4000-8000-000000000013",
+      "course_id": "c0000000-0000-4000-8000-000000000005",
+      "location_id": "10c00000-0000-4000-8000-000000000004",
+      "coach_id": "c0ac0000-0000-4000-8000-000000000001",
+      "age_group_id": "a9e00000-0000-4000-8000-000000000005",
+      "day_of_week": 4,
+      "start_time": "09:00:00",
+      "end_time": "09:50:00",
+      "capacity": 6,
+      "booked_count": 2,
+      "status": "open",
+      "notes_ar": null,
+      "notes_en": null,
+      "is_published": true,
+      "sort_order": 13,
+      "is_demo": true,
+      "created_at": "2026-11-09T16:25:11.322+00:00",
+      "updated_at": "2026-11-09T16:25:11.322+00:00"
+    },
+    {
+      "id": "5c000000-0000-4000-8000-000000000004",
+      "course_id": "c0000000-0000-4000-8000-000000000002",
+      "location_id": "10c00000-0000-4000-8000-000000000001",
+      "coach_id": "c0ac0000-0000-4000-8000-000000000001",
+      "age_group_id": "a9e00000-0000-4000-8000-000000000002",
+      "day_of_week": 4,
+      "start_time": "17:00:00",
+      "end_time": "18:00:00",
+      "capacity": 10,
+      "booked_count": 6,
+      "status": "open",
+      "notes_ar": null,
+      "notes_en": null,
+      "is_published": true,
+      "sort_order": 4,
+      "is_demo": true,
+      "created_at": "2026-11-09T16:25:11.322+00:00",
+      "updated_at": "2026-11-09T16:25:11.322+00:00"
+    },
+    {
+      "id": "5c000000-0000-4000-8000-000000000011",
+      "course_id": "c0000000-0000-4000-8000-000000000005",
+      "location_id": "10c00000-0000-4000-8000-000000000001",
+      "coach_id": "c0ac0000-0000-4000-8000-000000000001",
+      "age_group_id": "a9e00000-0000-4000-8000-000000000004",
+      "day_of_week": 4,
+      "start_time": "20:00:00",
+      "end_time": "20:50:00",
+      "capacity": 10,
+      "booked_count": 5,
+      "status": "open",
+      "notes_ar": null,
+      "notes_en": null,
+      "is_published": true,
+      "sort_order": 11,
+      "is_demo": true,
+      "created_at": "2026-11-09T16:25:11.322+00:00",
+      "updated_at": "2026-11-09T16:25:11.322+00:00"
+    },
+    {
+      "id": "5c000000-0000-4000-8000-000000000018",
+      "course_id": "c0000000-0000-4000-8000-000000000008",
+      "location_id": "10c00000-0000-4000-8000-000000000002",
+      "coach_id": "c0ac0000-0000-4000-8000-000000000001",
+      "age_group_id": "a9e00000-0000-4000-8000-000000000001",
+      "day_of_week": 5,
+      "start_time": "10:00:00",
+      "end_time": "10:40:00",
+      "capacity": 6,
+      "booked_count": 3,
+      "status": "open",
+      "notes_ar": null,
+      "notes_en": null,
+      "is_published": true,
+      "sort_order": 18,
+      "is_demo": true,
+      "created_at": "2026-11-09T16:25:11.322+00:00",
+      "updated_at": "2026-11-09T16:25:11.322+00:00"
+    },
+    {
+      "id": "5c000000-0000-4000-8000-000000000014",
+      "course_id": "c0000000-0000-4000-8000-000000000006",
+      "location_id": "10c00000-0000-4000-8000-000000000002",
+      "coach_id": "c0ac0000-0000-4000-8000-000000000001",
+      "age_group_id": "a9e00000-0000-4000-8000-000000000004",
+      "day_of_week": 5,
+      "start_time": "12:00:00",
+      "end_time": "12:45:00",
+      "capacity": 1,
+      "booked_count": 0,
+      "status": "open",
+      "notes_ar": null,
+      "notes_en": null,
+      "is_published": true,
+      "sort_order": 14,
+      "is_demo": true,
+      "created_at": "2026-11-09T16:25:11.322+00:00",
+      "updated_at": "2026-11-09T16:25:11.322+00:00"
+    },
+    {
+      "id": "5c000000-0000-4000-8000-000000000009",
+      "course_id": "c0000000-0000-4000-8000-000000000004",
+      "location_id": "10c00000-0000-4000-8000-000000000004",
+      "coach_id": "c0ac0000-0000-4000-8000-000000000001",
+      "age_group_id": "a9e00000-0000-4000-8000-000000000002",
+      "day_of_week": 6,
+      "start_time": "10:00:00",
+      "end_time": "10:40:00",
+      "capacity": 8,
+      "booked_count": 7,
+      "status": "open",
+      "notes_ar": null,
+      "notes_en": null,
+      "is_published": true,
+      "sort_order": 9,
+      "is_demo": true,
+      "created_at": "2026-11-09T16:25:11.322+00:00",
+      "updated_at": "2026-11-09T16:25:11.322+00:00"
+    },
+    {
+      "id": "5c000000-0000-4000-8000-000000000015",
+      "course_id": "c0000000-0000-4000-8000-000000000006",
+      "location_id": "10c00000-0000-4000-8000-000000000004",
+      "coach_id": "c0ac0000-0000-4000-8000-000000000001",
+      "age_group_id": "a9e00000-0000-4000-8000-000000000002",
+      "day_of_week": 6,
+      "start_time": "12:00:00",
+      "end_time": "12:45:00",
+      "capacity": 1,
+      "booked_count": 1,
+      "status": "open",
+      "notes_ar": null,
+      "notes_en": null,
+      "is_published": true,
+      "sort_order": 15,
+      "is_demo": true,
+      "created_at": "2026-11-09T16:25:11.322+00:00",
+      "updated_at": "2026-11-09T16:25:11.322+00:00"
+    }
+  ],
+  "reviews": [
+    {
+      "id": "f42b6acf-66ff-4dee-8605-d2d30d7d8e95",
+      "customer_name": "أم يوسف (تجريبي)",
+      "photo_url": null,
+      "rating": 5,
+      "text_ar": "ابني كان خايف جداً من الماء، وبعد شهر واحد أصبح يسبح وحده. أسلوب الكابتن هادئ وصبور.",
+      "text_en": "My son was very afraid of water; after one month he swims on his own. The coach is calm and patient.",
+      "course_id": "c0000000-0000-4000-8000-000000000004",
+      "review_date": "2026-10-30",
+      "status": "approved",
+      "source": "admin",
+      "sort_order": 1,
+      "is_demo": true,
+      "created_at": "2026-11-09T16:25:11.322+00:00",
+      "updated_at": "2026-11-09T16:25:11.322+00:00"
+    },
+    {
+      "id": "ef0e43e7-4ac2-4238-ad28-7a9d38ea2d5d",
+      "customer_name": "سارة خ. (تجريبي)",
+      "photo_url": null,
+      "rating": 5,
+      "text_ar": "تعلمت السباحة في عمر 27 سنة وما كنت متخيلة إن ده ممكن. شكراً كابتن أمير!",
+      "text_en": "I learned to swim at 27 and never imagined it was possible. Thank you Captain Amir!",
+      "course_id": "c0000000-0000-4000-8000-000000000005",
+      "review_date": "2026-10-22",
+      "status": "approved",
+      "source": "admin",
+      "sort_order": 2,
+      "is_demo": true,
+      "created_at": "2026-11-09T16:25:11.322+00:00",
+      "updated_at": "2026-11-09T16:25:11.322+00:00"
+    },
+    {
+      "id": "14cac7da-b162-4a74-8d25-0f7a07cb9496",
+      "customer_name": "Karim N. (Demo)",
+      "photo_url": null,
+      "rating": 5,
+      "text_ar": "تحسن كبير في أسلوب السباحة الحرة والتنفس خلال 6 أسابيع فقط.",
+      "text_en": "Huge improvement in my freestyle and breathing in just 6 weeks.",
+      "course_id": "c0000000-0000-4000-8000-000000000002",
+      "review_date": "2026-10-15",
+      "status": "approved",
+      "source": "admin",
+      "sort_order": 3,
+      "is_demo": true,
+      "created_at": "2026-11-09T16:25:11.322+00:00",
+      "updated_at": "2026-11-09T16:25:11.322+00:00"
+    },
+    {
+      "id": "22b0b09e-a056-46e6-988a-7427d3f2d6d9",
+      "customer_name": "والد ملك (تجريبي)",
+      "photo_url": null,
+      "rating": 4,
+      "text_ar": "تنظيم ممتاز ومتابعة مستمرة مع أولياء الأمور. ننتظر المستوى التالي.",
+      "text_en": "Excellent organisation and constant follow-up with parents. Looking forward to the next level.",
+      "course_id": "c0000000-0000-4000-8000-000000000004",
+      "review_date": "2026-10-10",
+      "status": "approved",
+      "source": "admin",
+      "sort_order": 4,
+      "is_demo": true,
+      "created_at": "2026-11-09T16:25:11.322+00:00",
+      "updated_at": "2026-11-09T16:25:11.322+00:00"
+    },
+    {
+      "id": "4f6f9804-2523-49f8-8f4f-130c238f2b0f",
+      "customer_name": "هبة س. (تجريبي)",
+      "photo_url": null,
+      "rating": 5,
+      "text_ar": "الدروس الخاصة ساعدتني أتغلب على خوفي تماماً.",
+      "text_en": "Private lessons helped me completely overcome my fear.",
+      "course_id": "c0000000-0000-4000-8000-000000000006",
+      "review_date": "2026-09-29",
+      "status": "approved",
+      "source": "admin",
+      "sort_order": 5,
+      "is_demo": true,
+      "created_at": "2026-11-09T16:25:11.322+00:00",
+      "updated_at": "2026-11-09T16:25:11.322+00:00"
+    },
+    {
+      "id": "c90181b4-76c2-48c8-a57b-6bcc3c2abcb7",
+      "customer_name": "زياد ش. (تجريبي)",
+      "photo_url": null,
+      "rating": 5,
+      "text_ar": "برنامج التدريب الاحترافي حسّن زمني في 100 متر حرة بشكل واضح.",
+      "text_en": "The professional program clearly improved my 100m freestyle time.",
+      "course_id": "c0000000-0000-4000-8000-000000000007",
+      "review_date": "2026-09-23",
+      "status": "approved",
+      "source": "admin",
+      "sort_order": 6,
+      "is_demo": true,
+      "created_at": "2026-11-09T16:25:11.322+00:00",
+      "updated_at": "2026-11-09T16:25:11.322+00:00"
+    },
+    {
+      "id": "dadb09e7-ec38-4111-86a8-93dba8eb4dc8",
+      "customer_name": "Laila M. (Demo)",
+      "photo_url": null,
+      "rating": 5,
+      "text_ar": "تجربة رائعة، الحمام نظيف والمواعيد مناسبة للعمل.",
+      "text_en": "Great experience — clean pool and work-friendly times.",
+      "course_id": "c0000000-0000-4000-8000-000000000005",
+      "review_date": "2026-09-15",
+      "status": "approved",
+      "source": "admin",
+      "sort_order": 7,
+      "is_demo": true,
+      "created_at": "2026-11-09T16:25:11.322+00:00",
+      "updated_at": "2026-11-09T16:25:11.322+00:00"
+    },
+    {
+      "id": "4c7de4ea-d76d-4f5e-b47a-95bf1980266f",
+      "customer_name": "أم جنى (تجريبي)",
+      "photo_url": null,
+      "rating": 5,
+      "text_ar": "كورس الأمان في الماء ضروري لكل طفل. بنتي تعرف الآن كيف تطفو على ظهرها.",
+      "text_en": "The water safety course is a must for every child. My daughter now knows how to back-float.",
+      "course_id": "c0000000-0000-4000-8000-000000000008",
+      "review_date": "2026-09-10",
+      "status": "approved",
+      "source": "admin",
+      "sort_order": 8,
+      "is_demo": true,
+      "created_at": "2026-11-09T16:25:11.322+00:00",
+      "updated_at": "2026-11-09T16:25:11.322+00:00"
+    },
+    {
+      "id": "5b0c81bf-1a41-4dcb-be2d-bf1dd2578f54",
+      "customer_name": "محمود ف. (تجريبي)",
+      "photo_url": null,
+      "rating": 4,
+      "text_ar": "في عمر 63 تعلمت السباحة بأمان. شكراً على الصبر.",
+      "text_en": "At 63 I learned to swim safely. Thank you for the patience.",
+      "course_id": "c0000000-0000-4000-8000-000000000005",
+      "review_date": "2026-08-31",
+      "status": "approved",
+      "source": "admin",
+      "sort_order": 9,
+      "is_demo": true,
+      "created_at": "2026-11-09T16:25:11.322+00:00",
+      "updated_at": "2026-11-09T16:25:11.322+00:00"
+    },
+    {
+      "id": "95541568-ce20-40f9-8935-861fc24fc5cb",
+      "customer_name": "Adam K. (Demo)",
+      "photo_url": null,
+      "rating": 5,
+      "text_ar": "ابني يحب التمرين وينتظره كل أسبوع!",
+      "text_en": "My son loves training and looks forward to it every week!",
+      "course_id": "c0000000-0000-4000-8000-000000000004",
+      "review_date": "2026-08-19",
+      "status": "approved",
+      "source": "admin",
+      "sort_order": 10,
+      "is_demo": true,
+      "created_at": "2026-11-09T16:25:11.322+00:00",
+      "updated_at": "2026-11-09T16:25:11.322+00:00"
+    }
+  ],
+  "faqs": [
+    {
+      "id": "ff3c823f-ed65-462e-b9f6-f09502037274",
+      "question_ar": "من أي عمر يمكن للأطفال البدء في تعلم السباحة؟",
+      "question_en": "At what age can children start swimming?",
+      "answer_ar": "يمكن البدء من عمر 3 سنوات في برامج الثقة بالماء، ومن 4 إلى 5 سنوات في كورسات تعليم السباحة المنظمة.",
+      "answer_en": "Children can start water-confidence programs from age 3, and structured learn-to-swim courses from ages 4–5.",
+      "is_published": true,
+      "sort_order": 1,
+      "is_demo": true,
+      "created_at": "2026-11-09T16:25:11.322+00:00",
+      "updated_at": "2026-11-09T16:25:11.322+00:00"
+    },
+    {
+      "id": "26e4564f-2060-4d6b-a86d-2cb7815e68c0",
+      "question_ar": "هل يمكن للكبار تعلم السباحة من الصفر؟",
+      "question_en": "Can adults learn swimming from zero?",
+      "answer_ar": "بالتأكيد. لدينا برنامج خاص بالكبار يبدأ بالتغلب على الخوف ويتدرج حتى السباحة بثقة.",
+      "answer_en": "Absolutely. Our adult program starts with overcoming fear and progresses step by step to confident swimming.",
+      "is_published": true,
+      "sort_order": 2,
+      "is_demo": true,
+      "created_at": "2026-11-09T16:25:11.322+00:00",
+      "updated_at": "2026-11-09T16:25:11.322+00:00"
+    },
+    {
+      "id": "03d11a84-9c1a-4d89-b013-3d3b2513d885",
+      "question_ar": "ما الأدوات التي أحتاجها؟",
+      "question_en": "What equipment do I need?",
+      "answer_ar": "مايوه، نظارة سباحة، غطاء رأس، فوطة، شبشب، وزجاجة مياه. التفاصيل في قسم المتطلبات.",
+      "answer_en": "A swimsuit, goggles, cap, towel, slippers and a water bottle. See the Requirements section for details.",
+      "is_published": true,
+      "sort_order": 3,
+      "is_demo": true,
+      "created_at": "2026-11-09T16:25:11.322+00:00",
+      "updated_at": "2026-11-09T16:25:11.322+00:00"
+    },
+    {
+      "id": "44a692d0-a2da-4a72-adee-adf769c1a200",
+      "question_ar": "كم من الوقت يستغرق تعلم السباحة؟",
+      "question_en": "How long does it take to learn swimming?",
+      "answer_ar": "يختلف حسب العمر والانتظام، لكن معظم المبتدئين يسبحون 25 متراً خلال 12 إلى 16 حصة.",
+      "answer_en": "It depends on age and consistency, but most beginners can swim 25m within 12–16 sessions.",
+      "is_published": true,
+      "sort_order": 4,
+      "is_demo": true,
+      "created_at": "2026-11-09T16:25:11.322+00:00",
+      "updated_at": "2026-11-09T16:25:11.322+00:00"
+    },
+    {
+      "id": "fef583e8-6c17-4b6e-8b7b-81e92e66c74b",
+      "question_ar": "هل تتوفر دروس خاصة؟",
+      "question_en": "Are private lessons available?",
+      "answer_ar": "نعم، تتوفر دروس فردية مع كابتن أمير بمواعيد مرنة لكل الأعمار والمستويات.",
+      "answer_en": "Yes, one-to-one lessons with Captain Amir are available with flexible times for all ages and levels.",
+      "is_published": true,
+      "sort_order": 5,
+      "is_demo": true,
+      "created_at": "2026-11-09T16:25:11.322+00:00",
+      "updated_at": "2026-11-09T16:25:11.322+00:00"
+    },
+    {
+      "id": "05f3ee5d-75fb-4b8c-bee5-3c53946d18b2",
+      "question_ar": "أين تُقام التدريبات؟",
+      "question_en": "Where are training sessions held?",
+      "answer_ar": "في عدة حمامات سباحة مجهزة. راجع قسم أماكن التدريب لمعرفة العناوين والمواعيد.",
+      "answer_en": "At several well-equipped pools. See the Training Locations section for addresses and hours.",
+      "is_published": true,
+      "sort_order": 6,
+      "is_demo": true,
+      "created_at": "2026-11-09T16:25:11.322+00:00",
+      "updated_at": "2026-11-09T16:25:11.322+00:00"
+    },
+    {
+      "id": "733d2f8e-90f3-4a20-91b1-a64e3a466b1b",
+      "question_ar": "كيف أحجز درساً؟",
+      "question_en": "How can I book a lesson?",
+      "answer_ar": "املأ نموذج التسجيل أو تواصل عبر واتساب. سيتواصل معك الفريق لتأكيد الحجز بعد المراجعة.",
+      "answer_en": "Fill in the registration form or message us on WhatsApp. The team will contact you to confirm after review.",
+      "is_published": true,
+      "sort_order": 7,
+      "is_demo": true,
+      "created_at": "2026-11-09T16:25:11.322+00:00",
+      "updated_at": "2026-11-09T16:25:11.322+00:00"
+    },
+    {
+      "id": "9dc27724-1a7e-4ace-9421-98a680e53d1a",
+      "question_ar": "هل يمكنني تغيير موعد التدريب؟",
+      "question_en": "Can I change my training schedule?",
+      "answer_ar": "نعم، يمكن تغيير الموعد حسب توفر الأماكن في المواعيد الأخرى بالتنسيق مع الإدارة.",
+      "answer_en": "Yes, you can switch slots depending on availability in other sessions, in coordination with the team.",
+      "is_published": true,
+      "sort_order": 8,
+      "is_demo": true,
+      "created_at": "2026-11-09T16:25:11.322+00:00",
+      "updated_at": "2026-11-09T16:25:11.322+00:00"
+    },
+    {
+      "id": "d2e37765-41ab-4e4e-b2cb-ec18bf35d08c",
+      "question_ar": "هل المياه مُدفأة؟",
+      "question_en": "Is the pool water heated?",
+      "answer_ar": "بعض المواقع بها حمامات مُدفأة. تجد التفاصيل في مرافق كل موقع.",
+      "answer_en": "Some locations have heated pools. Check each location's facilities.",
+      "is_published": true,
+      "sort_order": 9,
+      "is_demo": true,
+      "created_at": "2026-11-09T16:25:11.322+00:00",
+      "updated_at": "2026-11-09T16:25:11.322+00:00"
+    },
+    {
+      "id": "c1f0c2b6-eeea-489d-ba6a-82fb60f03db6",
+      "question_ar": "ما سياسة الإلغاء والتعويض؟",
+      "question_en": "What is the cancellation and make-up policy?",
+      "answer_ar": "يمكن تعويض الحصة عند الإبلاغ قبل 24 ساعة على الأقل (سياسة تجريبية).",
+      "answer_en": "A session can be made up if you notify us at least 24 hours in advance (demo policy).",
+      "is_published": true,
+      "sort_order": 10,
+      "is_demo": true,
+      "created_at": "2026-11-09T16:25:11.322+00:00",
+      "updated_at": "2026-11-09T16:25:11.322+00:00"
+    }
+  ]
+}
